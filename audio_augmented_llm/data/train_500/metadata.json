@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "synthetic_00000",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00000.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00001",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00001.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00002",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00002.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00003",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00003.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00004",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00004.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00005",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00005.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00006",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00006.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00007",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00007.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00008",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00008.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00009",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00009.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00010",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00010.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00011",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00011.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00012",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00012.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00013",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00013.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00014",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00014.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00015",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00015.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00016",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00016.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00017",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00017.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00018",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00018.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00019",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00019.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00020",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00020.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00021",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00021.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00022",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00022.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00023",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00023.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00024",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00024.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00025",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00025.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00026",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00026.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00027",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00027.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00028",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00028.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00029",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00029.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00030",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00030.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00031",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00031.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00032",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00032.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00033",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00033.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00034",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00034.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00035",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00035.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00036",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00036.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00037",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00037.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00038",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00038.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00039",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00039.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00040",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00040.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00041",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00041.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00042",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00042.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00043",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00043.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00044",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00044.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00045",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00045.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00046",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00046.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00047",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00047.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00048",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00048.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00049",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00049.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00050",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00050.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00051",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00051.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00052",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00052.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00053",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00053.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00054",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00054.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00055",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00055.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00056",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00056.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00057",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00057.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00058",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00058.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00059",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00059.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00060",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00060.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00061",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00061.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00062",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00062.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00063",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00063.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00064",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00064.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00065",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00065.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00066",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00066.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00067",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00067.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00068",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00068.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00069",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00069.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00070",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00070.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00071",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00071.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00072",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00072.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00073",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00073.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00074",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00074.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00075",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00075.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00076",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00076.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00077",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00077.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00078",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00078.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00079",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00079.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00080",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00080.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00081",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00081.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00082",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00082.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00083",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00083.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00084",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00084.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00085",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00085.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00086",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00086.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00087",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00087.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00088",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00088.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00089",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00089.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00090",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00090.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00091",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00091.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00092",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00092.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00093",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00093.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00094",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00094.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00095",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00095.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00096",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00096.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00097",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00097.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00098",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00098.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00099",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00099.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00100",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00100.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00101",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00101.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00102",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00102.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00103",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00103.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00104",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00104.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00105",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00105.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00106",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00106.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00107",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00107.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00108",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00108.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00109",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00109.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00110",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00110.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00111",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00111.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00112",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00112.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00113",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00113.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00114",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00114.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00115",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00115.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00116",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00116.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00117",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00117.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00118",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00118.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00119",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00119.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00120",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00120.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00121",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00121.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00122",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00122.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00123",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00123.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00124",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00124.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00125",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00125.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00126",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00126.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00127",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00127.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00128",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00128.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00129",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00129.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00130",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00130.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00131",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00131.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00132",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00132.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00133",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00133.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00134",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00134.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00135",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00135.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00136",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00136.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00137",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00137.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00138",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00138.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00139",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00139.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00140",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00140.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00141",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00141.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00142",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00142.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00143",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00143.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00144",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00144.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00145",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00145.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00146",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00146.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00147",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00147.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00148",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00148.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00149",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00149.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00150",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00150.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00151",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00151.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00152",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00152.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00153",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00153.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00154",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00154.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00155",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00155.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00156",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00156.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00157",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00157.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00158",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00158.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00159",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00159.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00160",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00160.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00161",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00161.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00162",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00162.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00163",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00163.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00164",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00164.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00165",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00165.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00166",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00166.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00167",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00167.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00168",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00168.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00169",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00169.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00170",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00170.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00171",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00171.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00172",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00172.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00173",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00173.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00174",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00174.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00175",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00175.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00176",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00176.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00177",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00177.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00178",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00178.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00179",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00179.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00180",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00180.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00181",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00181.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00182",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00182.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00183",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00183.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00184",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00184.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00185",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00185.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00186",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00186.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00187",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00187.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00188",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00188.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00189",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00189.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00190",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00190.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00191",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00191.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00192",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00192.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00193",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00193.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00194",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00194.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00195",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00195.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00196",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00196.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00197",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00197.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00198",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00198.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00199",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00199.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00200",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00200.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00201",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00201.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00202",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00202.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00203",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00203.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00204",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00204.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00205",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00205.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00206",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00206.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00207",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00207.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00208",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00208.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00209",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00209.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00210",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00210.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00211",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00211.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00212",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00212.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00213",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00213.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00214",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00214.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00215",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00215.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00216",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00216.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00217",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00217.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00218",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00218.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00219",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00219.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00220",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00220.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00221",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00221.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00222",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00222.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00223",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00223.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00224",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00224.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00225",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00225.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00226",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00226.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00227",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00227.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00228",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00228.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00229",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00229.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00230",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00230.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00231",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00231.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00232",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00232.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00233",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00233.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00234",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00234.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00235",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00235.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00236",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00236.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00237",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00237.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00238",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00238.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00239",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00239.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00240",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00240.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00241",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00241.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00242",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00242.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00243",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00243.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00244",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00244.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00245",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00245.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00246",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00246.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00247",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00247.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00248",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00248.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00249",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00249.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00250",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00250.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00251",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00251.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00252",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00252.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00253",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00253.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00254",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00254.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00255",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00255.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00256",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00256.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00257",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00257.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00258",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00258.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00259",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00259.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00260",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00260.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00261",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00261.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00262",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00262.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00263",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00263.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00264",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00264.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00265",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00265.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00266",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00266.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00267",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00267.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00268",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00268.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00269",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00269.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00270",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00270.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00271",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00271.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00272",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00272.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00273",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00273.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00274",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00274.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00275",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00275.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00276",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00276.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00277",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00277.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00278",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00278.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00279",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00279.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00280",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00280.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00281",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00281.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00282",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00282.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00283",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00283.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00284",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00284.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00285",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00285.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00286",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00286.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00287",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00287.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00288",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00288.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00289",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00289.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00290",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00290.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00291",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00291.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00292",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00292.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00293",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00293.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00294",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00294.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00295",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00295.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00296",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00296.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00297",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00297.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00298",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00298.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00299",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00299.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00300",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00300.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00301",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00301.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00302",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00302.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00303",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00303.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00304",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00304.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00305",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00305.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00306",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00306.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00307",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00307.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00308",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00308.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00309",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00309.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00310",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00310.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00311",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00311.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00312",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00312.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00313",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00313.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00314",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00314.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00315",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00315.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00316",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00316.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00317",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00317.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00318",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00318.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00319",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00319.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00320",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00320.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00321",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00321.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00322",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00322.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00323",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00323.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00324",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00324.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00325",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00325.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00326",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00326.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00327",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00327.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00328",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00328.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00329",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00329.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00330",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00330.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00331",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00331.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00332",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00332.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00333",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00333.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00334",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00334.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00335",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00335.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00336",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00336.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00337",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00337.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00338",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00338.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00339",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00339.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00340",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00340.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00341",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00341.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00342",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00342.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00343",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00343.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00344",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00344.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00345",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00345.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00346",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00346.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00347",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00347.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00348",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00348.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00349",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00349.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00350",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00350.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00351",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00351.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00352",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00352.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00353",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00353.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00354",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00354.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00355",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00355.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00356",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00356.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00357",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00357.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00358",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00358.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00359",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00359.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00360",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00360.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00361",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00361.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00362",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00362.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00363",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00363.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00364",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00364.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00365",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00365.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00366",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00366.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00367",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00367.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00368",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00368.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00369",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00369.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00370",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00370.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00371",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00371.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00372",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00372.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00373",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00373.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00374",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00374.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00375",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00375.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00376",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00376.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00377",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00377.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00378",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00378.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00379",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00379.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00380",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00380.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00381",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00381.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00382",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00382.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00383",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00383.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00384",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00384.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00385",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00385.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00386",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00386.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00387",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00387.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00388",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00388.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00389",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00389.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00390",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00390.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00391",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00391.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00392",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00392.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00393",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00393.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00394",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00394.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00395",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00395.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00396",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00396.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00397",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00397.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00398",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00398.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00399",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00399.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00400",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00400.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00401",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00401.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00402",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00402.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00403",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00403.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00404",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00404.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00405",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00405.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00406",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00406.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00407",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00407.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00408",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00408.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00409",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00409.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00410",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00410.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00411",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00411.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00412",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00412.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00413",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00413.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00414",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00414.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00415",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00415.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00416",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00416.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00417",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00417.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00418",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00418.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00419",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00419.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00420",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00420.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00421",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00421.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00422",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00422.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00423",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00423.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00424",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00424.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00425",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00425.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00426",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00426.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00427",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00427.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00428",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00428.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00429",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00429.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00430",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00430.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00431",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00431.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00432",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00432.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00433",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00433.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00434",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00434.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00435",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00435.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00436",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00436.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00437",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00437.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00438",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00438.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00439",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00439.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00440",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00440.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00441",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00441.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00442",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00442.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00443",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00443.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00444",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00444.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00445",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00445.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00446",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00446.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00447",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00447.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00448",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00448.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00449",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00449.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00450",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00450.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00451",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00451.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00452",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00452.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00453",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00453.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00454",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00454.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00455",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00455.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00456",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00456.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00457",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00457.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00458",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00458.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00459",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00459.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00460",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00460.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00461",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00461.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00462",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00462.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00463",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00463.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00464",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00464.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00465",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00465.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00466",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00466.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00467",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00467.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00468",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00468.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00469",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00469.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00470",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00470.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00471",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00471.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00472",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00472.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00473",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00473.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00474",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00474.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00475",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00475.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00476",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00476.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00477",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00477.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00478",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00478.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00479",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00479.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00480",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00480.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00481",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00481.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00482",
+    "context": "Why does this always happen to me?",
+    "teacher_response": "I hear your frustration. Let's think about how to address this.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00482.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00483",
+    "context": "I'm scared about the future.",
+    "teacher_response": "Those feelings are valid. Remember that you're not alone in this.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00483.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00484",
+    "context": "Guess what just happened?",
+    "teacher_response": "I'm intrigued! Please tell me!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00484.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00485",
+    "context": "I need some information about this.",
+    "teacher_response": "I'd be happy to help. What specifically would you like to know?",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00485.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00486",
+    "context": "I just got accepted to my dream university!",
+    "teacher_response": "Congratulations! That's absolutely wonderful news! I'm so happy for you!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00486.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00487",
+    "context": "I'm feeling really down today.",
+    "teacher_response": "I'm sorry to hear that. Do you want to talk about what's bothering you?",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00487.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00488",
+    "context": "This is so unfair! I can't believe this happened!",
+    "teacher_response": "I can see why you're upset. That does sound frustrating.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00488.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00489",
+    "context": "I'm really worried about the upcoming exam.",
+    "teacher_response": "It's natural to feel nervous. Have you been preparing well?",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00489.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00490",
+    "context": "I can't believe what just happened!",
+    "teacher_response": "Really? Tell me more! What happened?",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00490.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00491",
+    "context": "What do you think about this topic?",
+    "teacher_response": "That's an interesting question. Let me share my perspective on this.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00491.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00492",
+    "context": "My team won the championship!",
+    "teacher_response": "That's amazing! You must be thrilled! All your hard work paid off!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00492.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00493",
+    "context": "I miss my family so much.",
+    "teacher_response": "That must be really hard. It's completely normal to feel that way.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00493.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00494",
+    "context": "I'm really annoyed with this situation.",
+    "teacher_response": "That's understandable. It sounds like a difficult situation.",
+    "emotion": "anger",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00494.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00495",
+    "context": "What if something goes wrong?",
+    "teacher_response": "I understand your concerns. Let's think through this together.",
+    "emotion": "fear",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00495.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00496",
+    "context": "You won't believe what I just found out!",
+    "teacher_response": "I'm all ears! This sounds exciting!",
+    "emotion": "surprise",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00496.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00497",
+    "context": "Can you explain how this works?",
+    "teacher_response": "Of course. Let me break it down step by step for you.",
+    "emotion": "neutral",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00497.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00498",
+    "context": "I finally finished my big project!",
+    "teacher_response": "Fantastic! You should be so proud of yourself!",
+    "emotion": "joy",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00498.wav",
+    "has_embedding": true
+  },
+  {
+    "id": "synthetic_00499",
+    "context": "Things haven't been going well lately.",
+    "teacher_response": "I understand. Sometimes life can be overwhelming.",
+    "emotion": "sadness",
+    "dataset": "synthetic",
+    "audio_path": "audio_augmented_llm/data/train_500/audio/synthetic_00499.wav",
+    "has_embedding": true
+  }
+]

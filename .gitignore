@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files (too large for git)
+audio_augmented_llm/data/*/audio/
+audio_augmented_llm/data/*/emotion_embeddings.npz
+audio_augmented_llm/data/*/acoustic_embeddings.npz
+audio_augmented_llm/data/*/full_dataset.json
+*.wav
+*.mp3
+*.flac
+
+# Model checkpoints (too large for git)
+audio_augmented_llm/models/
+outputs/*/best_model/
+outputs/*/checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Large output logs
+outputs/*_log.txt
+
+# Temporary files
+*.tmp
+*.bak
+.DS_Store
+
+# Keep metadata files (small JSON files)
+!audio_augmented_llm/data/*/metadata.json
+
+# Keep important documentation
+!EXPERIMENT_LOG.md
+!README.md

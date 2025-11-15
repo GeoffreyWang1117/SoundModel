@@ -1,0 +1,163 @@
+# Audio-Augmented LLM Experiment Configuration
+# This config defines all parameters for training and evaluation
+
+project:
+  name: "audio_augmented_llm"
+  version: "0.1.0"
+  experiment_name: "baseline_experiment"
+  random_seed: 42
+
+# Teacher Model Configuration
+teacher:
+  model_name: "Qwen/Qwen2.5-7B-Instruct"  # Or "gpt-4o" for API-based
+  use_api: false  # Set to true for GPT-4o
+  api_key_path: null  # Path to API key file if needed
+  temperature: 0.7
+  max_new_tokens: 512
+  emotion_aware: true  # Whether to add emotion control signals
+
+# TTS Configuration
+tts:
+  model_type: "xtts"  # Options: "xtts", "cosyvoice"
+  model_path: "tts_models/multilingual/multi-dataset/xtts_v2"
+  sample_rate: 22050
+  speaker_wav: null  # Path to reference speaker audio
+  language: "en"
+  emotion_control: true  # Use emotion labels to guide synthesis
+
+# Emotion Encoder Configuration
+emotion_encoder:
+  model_type: "wavlm"  # Options: "wavlm", "whisper"
+  model_name: "microsoft/wavlm-large"  # Or "openai/whisper-large-v3"
+  embedding_dim: 256  # Output emotion embedding dimension
+  freeze_encoder: false  # Whether to freeze pre-trained weights
+  use_emotion_classifier: true  # Train emotion classification head
+  num_emotion_classes: 7  # joy, anger, sadness, neutral, fear, disgust, surprise
+
+  # Audio preprocessing
+  target_sample_rate: 16000
+  max_audio_length: 10.0  # seconds
+
+# Student Model Configuration
+student:
+  model_name: "Qwen/Qwen-1.8B"  # Small student model
+  use_lora: true
+  lora_config:
+    r: 16
+    lora_alpha: 32
+    lora_dropout: 0.05
+    target_modules: ["q_proj", "k_proj", "v_proj", "o_proj"]
+    task_type: "CAUSAL_LM"
+
+  # Quantization
+  load_in_8bit: false
+  load_in_4bit: true
+
+  # Audio embedding integration
+  emotion_embedding_mode: "concat"  # Options: "concat", "attention", "cross_attention"
+  emotion_projection_dim: null  # Auto-set to match model hidden size
+
+# Training Configuration
+training:
+  # Basic settings
+  output_dir: "./outputs/checkpoints"
+  num_train_epochs: 3
+  per_device_train_batch_size: 4
+  per_device_eval_batch_size: 8
+  gradient_accumulation_steps: 4
+
+  # Optimization
+  learning_rate: 2.0e-4
+  weight_decay: 0.01
+  warmup_steps: 500
+  max_grad_norm: 1.0
+
+  # Scheduler
+  lr_scheduler_type: "cosine"
+
+  # Mixed precision
+  fp16: false
+  bf16: true  # Use bf16 on RTX 3090
+
+  # Distributed training
+  ddp_find_unused_parameters: false
+
+  # Logging and saving
+  logging_steps: 50
+  save_steps: 500
+  eval_steps: 500
+  save_total_limit: 3
+
+  # Loss weights
+  text_loss_weight: 1.0
+  emotion_alignment_loss_weight: 0.1  # Weight for emotion embedding alignment
+
+# Data Configuration
+data:
+  # Dataset paths
+  train_data_path: "./data/train"
+  val_data_path: "./data/val"
+  test_data_path: "./data/test"
+
+  # Emotion speech datasets for encoder training
+  emotion_datasets:
+    - name: "iemocap"
+      path: "./data/iemocap"
+      split: "train"
+    - name: "meld"
+      path: "./data/meld"
+      split: "train"
+
+  # Dialogue datasets
+  dialogue_datasets:
+    - name: "empathetic_dialogues"
+      path: "empathetic_dialogues"  # HuggingFace dataset
+    - name: "daily_dialog"
+      path: "daily_dialog"
+
+  # Reasoning datasets
+  reasoning_datasets:
+    - name: "gsm8k"
+      path: "gsm8k"
+      subset: "main"
+    - name: "strategyqa"
+      path: "wics/strategy-qa"
+
+  # Sampling strategy
+  max_samples_per_dataset: 10000  # For prototyping
+  max_seq_length: 512
+
+# Evaluation Configuration
+evaluation:
+  metrics:
+    - "bleu"
+    - "rouge"
+    - "meteor"
+    - "emotion_accuracy"  # Emotion classification accuracy
+    - "emotion_similarity"  # Cosine similarity of emotion embeddings
+
+  # Task-specific evaluation
+  tasks:
+    - name: "emotion_dialogue"
+      dataset: "empathetic_dialogues"
+      split: "test"
+    - name: "reasoning"
+      dataset: "gsm8k"
+      split: "test"
+
+# Hardware Configuration
+hardware:
+  num_gpus: 2
+  gpu_memory_limit: 24  # GB per GPU
+  use_cpu_offload: false
+
+# Wandb Configuration (Optional)
+wandb:
+  enabled: false
+  project: "audio-augmented-llm"
+  entity: null  # Your wandb username
+
+# Debugging
+debug:
+  enabled: false
+  num_samples: 100  # Use only N samples for quick testing

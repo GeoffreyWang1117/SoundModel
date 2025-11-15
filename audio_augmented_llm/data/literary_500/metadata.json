@@ -1,0 +1,3980 @@
+[
+  {
+    "id": "literary_0000",
+    "text": "One day, a little girl named Lily found a needle in her room. She knew it was difficult to play with it because it was sharp. Lily wanted to share the needle with her mom, so she could sew a button on her shirt.\n\nLily went to her mom and said, \"Mom, I found this needle.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0000.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0001",
+    "text": "Once upon a time, there was a little car named Beep. Beep loved to go fast and play in the sun. Beep was a healthy car because he always had good fuel.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0001.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0002",
+    "text": "One day, a little fish named Fin was swimming near the shore. He saw a big crab and wanted to be friends. \"Hi, I am Fin.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0002.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0003",
+    "text": "Once upon a time, in a land full of trees, there was a little cherry tree. The cherry tree was very sad because it did not have any friends. All the other trees were big and strong, but the cherry tree was small and weak.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0003.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0004",
+    "text": "Once upon a time, there was a little girl named Lily. Lily liked to pretend she was a popular princess. She lived in a big castle with her best friends, a cat and a dog.\n\nOne day, while playing in the castle, Lily found a big cobweb.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0004.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0005",
+    "text": "Once upon a time, in a big lake, there was a brown kayak. The brown kayak liked to roll in the water all day long. It was very happy when it could roll and splash in the lake.\n\nOne day, a little boy named Tim came to play with the brown kayak.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0005.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0006",
+    "text": "Once upon a time, in a small town, there was a troubled little girl named Lily. She was always sad because she lost her favorite toy, a triangle. She looked everywhere in her house but could not find it.\n\nOne sunny day, Lily went to the park to play.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0006.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0007",
+    "text": "Once upon a time, in a peaceful town, there lived a little boy named Tim. Tim loved to run and play outside. One day, Tim saw a race in the park.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0007.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0008",
+    "text": "Once upon a time, there was a clever little dog named Max. Max loved to run and play with his friends in the park. One day, Max was running very fast when he fell and hurt his knee.\n\nMax went to his friend, the wise old owl, and said, \"Owl, my knee hurts.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0008.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0009",
+    "text": "One day, a fast driver named Tim went for a ride in his loud car. He loved to speed down the street and feel the wind in his hair. As he drove, he saw his friend, Sam, standing by the road.\n\n\"Hi, Sam!\" Tim called out.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0009.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0010",
+    "text": "Once upon a time, there was a big car named Dependable. He had a very important job. Dependable would take a family to the park every day.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0010.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0011",
+    "text": "Once upon a time, there was a boy named Tim. He liked to wear a big, dark hat. The hat was his favorite thing to wear.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0011.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0012",
+    "text": "One day, a girl named Mia went for a walk. She saw a big, scary house. It had a tall door and small windows.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0012.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0013",
+    "text": "Once upon a time, in a small house, there lived a little girl named Amy. Amy was very sleepy. She put on her pajamas and went to bed.\n\nIn the middle of the night, Amy heard a soft sound.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0013.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0014",
+    "text": "Once upon a time, in a big forest, there was a tiny mushroom. It was all alone. The sun was very harsh, and the mushroom did not like it.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0014.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0015",
+    "text": "Once upon a time, there was a queen. She was a very nice queen. She had a big, pretty castle.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0015.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0016",
+    "text": "Once upon a time, there was a little white cat named Fluffy. Fluffy loved to play with her best friend, a small boy named Timmy. They played outside in the sun every day.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0016.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0017",
+    "text": "Once upon a time, there was a big octopus. He lived in the deep blue sea. He had a friend, a reliable fish.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0017.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0018",
+    "text": "One day, a silly cat named Tom found a hoop in the yard. He wanted to play with it, but it was too big. Tom thought very hard about how to make the hoop smaller.\n\nTom had an idea.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0018.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0019",
+    "text": "Once upon a time, there was a polite crab. The crab lived in the sea. The crab had many friends.\n\nOne day, the crab met a new friend.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0019.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0020",
+    "text": "Once, there was a boy named Tim. Tim liked to fish. He had a long pole to catch fish.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0020.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0021",
+    "text": "Once upon a time, in a small house, there lived a boy named Tim. Tim was a selfish boy. He did not like to share his things with others.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0021.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0022",
+    "text": "Once upon a time, there was a girl named Sue. Sue had long hair that would remind her of a rainbow. She would play with her hair all day.\n\nOne day, Sue saw a slow snail in her garden.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0022.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0023",
+    "text": "Once upon a time, there was a helpful girl named Lily. She loved to read books and spend time with her friends. One day, she found a new book at school.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0023.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0024",
+    "text": "Once upon a time, there was a little boy named Tim. Tim wanted to build something special for his mom's birthday. He thought and thought about what to make.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0024.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0025",
+    "text": "One day, a big whale was swimming in the deep blue sea. The whale was very mysterious. It had a big smile on its face and liked to play with the little fish.\n\nThe mysterious whale loved to relax in the warm water.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0025.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0026",
+    "text": "Once upon a time, there was a smelly old tree. By the tree, there was a big hole. In the hole, there was a shiny coin.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0026.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0027",
+    "text": "Once upon a time, there was a little boy named Tim. Tim loved going to the park to play. One day, Tim went to the park with his mom and dad.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0027.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0028",
+    "text": "One sunny day, a pretty boat was on the water. The boat was red and blue. A girl named Lily and her dog, Spot, were on the boat.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0028.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0029",
+    "text": "Once upon a time, there was a girl named Lily. She had a flute that she loved to play. One day, she met a deaf cat who could not hear her play the flute.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0029.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0030",
+    "text": "Once upon a time, there was a boy named Tom. He loved gum. One day, he found a thin piece of gum on the ground.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0030.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0031",
+    "text": "Once upon a time, there was a little boy named Tim. Tim had a favorite vest that he loved to wear. It was a pretty vest with many colors.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0031.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0032",
+    "text": "Once upon a time, there was a little boat. The boat was blue and it liked to float on the water. One day, the sun was very hot and the water began to dry up.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0032.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0033",
+    "text": "Once upon a time, there was an old lady who lived in a small house. She loved to mix things in her big pot. One day, she decided to mix some yummy soup for her lunch.\n\nAs she mixed the soup, she saw some smoke come out of her pot.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0033.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0034",
+    "text": "Once upon a time, there was a little boy named Tim. Tim was very nervous. He had lost his toy razor.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0034.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0035",
+    "text": "Once upon a time, there was a big gray elephant named Elly. Elly was sad because she thought she was ugly. She had big ears and a long nose, and she felt different from the other animals.\n\nOne day, a little bird named Benny flew to Elly.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0035.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0036",
+    "text": "Once upon a time, there was a little dog named Zigzag. Zigzag loved to run and play in the park. One day, Zigzag saw a big twisty slide.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0036.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0037",
+    "text": "Once upon a time, in a small house, there was a cat and a dog. They liked to play all day. One day, they saw a shiny chain on the floor.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0037.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0038",
+    "text": "One day, a little boy named Tim went to play outside. He saw a big box near the tree. Tim was very curious.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0038.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0039",
+    "text": "One day, a boy named Tim found a big hammer in his toy box. He took the hammer and went to play in the deep mud outside. While he was playing, he saw a little bug stuck in the mud.\n\n\"Help me, please!\" said the bug.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0039.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0040",
+    "text": "Once upon a time, in a small house, there was a big box. The box was empty. A little boy named Tim wanted to find something to put in the box.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0040.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0041",
+    "text": "Once upon a time, in a big, green park, there was a small, messy dog named Binky. Binky had a long, waggy tail and loved to play with his friends. One sunny day, Binky and his friends were playing catch with a big, red ball.\n\nAs they played, Binky's tail got caught in a bush.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0041.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0042",
+    "text": "Once upon a time, in a small town, there was a little boy named Tim. Tim loved to speak and play with his friends. One day, Tim found a big, pink gum on the ground.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0042.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0043",
+    "text": "Once upon a time, there was a little boy named Tim. Tim loved pumpkins. He loved their round shape and bright orange color.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0043.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0044",
+    "text": "Once upon a time, there was a little girl named Lily. She lived in a small house with her mom and dad. One day, her mom asked her to go to the park and play.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0044.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0045",
+    "text": "Once upon a time, there was a little flower named Bloom. Bloom lived in a big garden with many other flowers. Bloom had a goal to be the most beautiful flower in the garden.\n\nOne sunny day, Bloom saw a dangerous bug coming near the flowers.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0045.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0046",
+    "text": "Once upon a time, there was a little girl named Sue. Sue had a big bedroom with fancy things in it. She loved her room very much.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0046.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0047",
+    "text": "Once upon a time, there was a little infant named Tim. He liked to play with his toys and watch the birds outside his window. Tim had a big, soft teddy bear that he loved very much.\n\nOne day, Tim's teddy bear was sad.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0047.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0048",
+    "text": "Once upon a time, in a small town, there was a little boy named Tim. Tim loved ice-cream so much. One day, he saw an ancient ice-cream truck.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0048.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0049",
+    "text": "Once upon a time, there were two best friends, Joe and Grace. They were always playing together and having so much fun. One day, Joe and Grace decided to go to the town's marketplace.\n\nWhen they got there, they saw a vendor with lots of colorful balloons.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0049.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0050",
+    "text": "Once there was a graceful bird called Billy. He was always looking for something to do. One day he decided to try something new.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0050.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0051",
+    "text": "Once upon a time there were two friends, Jack and Jill. Jack and Jill went up the hill to play a game. The game was silly.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0051.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0052",
+    "text": "Once upon a time, there was a boy who loved to climb. One day, he decided to climb to the top of a mountain to get a better view. When he reached the peak, he saw a lake below him.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0052.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0053",
+    "text": "Once, there was a girl. She had a garage. Inside the garage she kept her toys.\n\nOne day, the girl noticed something was wrong with her toys.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0053.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0054",
+    "text": "Mommy and Emily were playing a matching game together. Emily was so excited to find the matching games at the store. She liked watching the videos on the screen as she matched each card.\n\n\"Mommy, I think I'm getting really good at this!\" Emily said.\n\n\"That's wonderful, sweetheart!\" Mommy replied.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0054.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0055",
+    "text": "Once there was a little girl called Mia who loved to jump. Everywhere she went, she jumped. When walking to school, she would jump on the sidewalk.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0055.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0056",
+    "text": "Once there was a girl named Lucy. She was three years old and she loved gum. She had lots of different flavours and she ate it every day.\n\nOne day Lucy thought it would be fun to try extra big bubblegum.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0056.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0057",
+    "text": "Once, there was a small boy named Charlie. Charlie loved stories more than anything else. Charlie's mommy always said that stories were special and delicate.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0057.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0058",
+    "text": "Jack was feeling a bit sad. He wanted some wine but he didn't have any. He walked up to a store and asked the shopkeeper, \"Do you have any wine?\" \n\nThe shopkeeper replied, \"Yes, I have some.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0058.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0059",
+    "text": "Once upon a time, there was a little girl named Annie. She was only three years old but she was full of energy and liked to explore. One day, she was walking in the forest and came across a clearing.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0059.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0060",
+    "text": "Once upon a time, there was a little girl who loved fashion. She spent all of her time imagining what it would be like to have the perfect outfit for her. Every day, she would go searching for new clothes that she could wear.\n\nOne day, she found the most perfect dress.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0060.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0061",
+    "text": "Once there were two friends named Bob and Sam. They were playing together in the garden one day. Sam picked a flower and then pointed to a black bird in a tree.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0061.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0062",
+    "text": "One night, two brave animals were walking through a dark forest. The first animal was a big, strong bear. The second animal was a small, alert owl.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0062.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0063",
+    "text": "Once upon a time there was a kitty who liked to play with a special brush. Each day, the kitty would lend the brush to a friend in the park. Every day, the kitty was so careless with the brush that it got lost.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0063.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0064",
+    "text": "Once, there was a little girl named Ella. She was very excited, because today was a very special day. \n\nElla grabbed her toys and her backpack.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0064.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0065",
+    "text": "Once upon a time, there was a caterpillar called Bill. He had 8 small legs and loved exploring in the garden.\n\nOne day, Bill was walking around when he heard a noise in the bushes. Curious, he crept closer to take a look.\n\nSuddenly, a big, tough frog jumped out from the bushes.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0065.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0066",
+    "text": "Once upon a time, there was a baby who wanted to pick something special. He went to a shop and saw an ancient case. He picked it up and looked inside.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0066.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0067",
+    "text": "Once there was a naughty little girl. She was very naughty and always misbehaving. One day she do something very naughty.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0067.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0068",
+    "text": "Jim was very frightened when he arrived at the barber's shop. It was his first time getting a haircut! He didn't want his mum to leave him alone with the strange man.\n\n\"Don't worry,\" said the barber. He smiled and handed Jim a big lollipop.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0068.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0069",
+    "text": "One cold winter day, Tilly was outside helping in the garden. She grabbed a rake and started cleaning up the leaves on the ground. She held the rake in front of her and carefully balanced the leaves.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0069.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0070",
+    "text": "Once upon a time there was an adorable little rabbit. His mommy told him to rake the leaves in the garden. So he raked and raked but it was a lot of work and he got tired very quickly.\n\nHis daddy saw him struggling and decided to help him.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0070.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0071",
+    "text": "Once upon a time there was a brother and sister who loved to play together. One day they went to the park and saw the most interesting mug. It was big, colourful and looked like it belonged to a magical creature.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0071.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0072",
+    "text": "One day, Jane and her daddy were at the park. Jane saw something very special - a big green tree with green powder around it. Jane walked closer to the tree and saw that the powder was made of tiny green pieces.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0072.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0073",
+    "text": "Once, there were two friends who were playing in the yard. One was clumsy and the other wasn't. \n\nThe clumsy one said, â€œLetâ€™s catch a bug!â€\n\nBut the other one disagreed.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0073.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0074",
+    "text": "One day, Little Bear and his Mommy went for a visit. She took him to a place he had never seen before. It was an icy place with lots of snow.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0074.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0075",
+    "text": "Once upon a time, a little girl named Nora wanted to explore nature. She went to a meadow filled with white flowers, and she picked one that was the prettiest. She smelled it, and it was so sweet.\n\nThen Nora saw a small bunny hopping in the grass.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0075.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0076",
+    "text": "Once upon a time, there lived a lively young reindeer in the North pole. He was always so excited about the snow and he loved playing out in the cold! One day, he decided to go off into the snow and explore. \n\nSo off he went, exploring the snow and having fun.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0076.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0077",
+    "text": "Once upon a time, there lived a little girl called Lucy. One day, Lucy was feeling very sad. She wanted to fly away so she could be happy but she was too young.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0077.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0078",
+    "text": "Once upon a time there was a brave warrior who lived far away in the forest. \n\nOne day the warrior sailed away to explore the world on a small boat. They sailed around for hours and hours, eventually coming to a new land.\n\nThe warrior was curious so they jumped off the boat and started to explore.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0078.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0079",
+    "text": "Once upon a time, there lived a little girl. She loved going outside to play in the sun. One day, the sun was shining so brightly and everything was so warm.\n\nThe little girl excitedly started to run around.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0079.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0080",
+    "text": "Once there was a boy named Tom. Tom wanted to see something special, so he went to a high mountain. It was sunny and warm outside so the snow began to melt.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0080.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0081",
+    "text": "One summer morning, a little boy named Andy was walking around outside. He saw a white rabbit in the grass and wanted to touch it. He walked over to the rabbit and reached out his hand, but he stopped just before he touched it.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0081.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0082",
+    "text": "Once there was a little girl named Lucy. She loved to play with her toys, but today was different. She was outside with her parents and there were a lot of people around.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0082.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0083",
+    "text": "Once there was a boy who liked to run. Every day he ran faster and faster. He was so fast that he seemed to float rather than run! One day, his mommy gave him a weight to carry.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0083.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0084",
+    "text": "Once upon a time there was a coat frame. It was fit for a special occasion. A little girl named Rachel came to try it on.\n\nRachel noticed that the frame was disturbed.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0084.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0085",
+    "text": "Once upon a time, there was a modest car. It drove around the country at a careful speed. Every day, its driver, Lizzie, said to the car, â€œLetâ€™s go! Letâ€™s speed!â€ But the car never wanted to go too quickly.\n\nOne day, Lizzie spotted a rabbit hopping along the country road.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0085.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0086",
+    "text": "One day, Mary was sitting on the grass in the park, eating a sandwich. She chewed it slowly, looking around. Suddenly, something sparkly caught her eye - it was a silver necklace glistening in the sun.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0086.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0087",
+    "text": "Once upon a time, there was a little boy named Joe. He was always happy and very healthy. \n\nOne day, Joe saw a lovely bird in the sky.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0087.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0088",
+    "text": "Once upon a time, a little girl named Lucy was playing with her chalk. She drew beautiful pictures with it outside her house.\n\nSuddenly, her friend Mary came over and asked if she wanted to play. Lucy said yes but Mary thought of something else to do.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0088.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0089",
+    "text": "Once upon a time there lived a little girl named Amy. She was very alert and always looked for new things to explore. One day she decided to search for a painter who could help her.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0089.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0090",
+    "text": "Once upon a time, there was a little girl named Lola. She was three years old and she loved purple things. One day, she was walking in the park when she saw a big pastry.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0090.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0091",
+    "text": "Once upon a time, there was a creative farmer who lived on a farm. He loved his farm and the animals who lived there. Every day he would go out and take care of the animals.\n\nOne day, the farmer noticed something strange.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0091.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0092",
+    "text": "Once upon a time a little girl named Jill had a very special toy. It was a black car that could zip around the room. She loved playing with it, zipping it back and forth.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0092.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0093",
+    "text": "Once upon a time, there was a small girl named Susie. Susie loved to go exploring in the big backyard of her house. One day, Susie went outside with her teddy bear.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0093.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0094",
+    "text": "There was a little girl with dark hair. Her name was Joy. She lived in a big house with her parents.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0094.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0095",
+    "text": "Once upon a time there was a little girl named Rita. She was gentle and sweet and was always nice to everyone. One day Rita was walking in the park and noticed something shiny.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0095.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0096",
+    "text": "One day, John and his mom were out in the woods. John was looking to find some lumber for his toy boat. They had been scourging for hours, but hadn't found anything yet.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0096.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0097",
+    "text": "Once upon a time, there was a little boy named Thomas. He was three years old and loved to explore. One day, he went on a big adventure to a far away oasis.\n\nOn his way, he found a broken tree branch.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0097.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0098",
+    "text": "Once upon a time, there was a lazy figure who was always looking for ways to relax. One day, he saw a big tree in the distance and decided to take a nap. As he was lying there, a small voice shouted, â€œHey! Wake up!â€\n\nThe lazy figure opened his eyes and saw a small child standing in front of him.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0098.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0099",
+    "text": "Once upon a time there was a new little bunny. Her name was Chloe and she was very excited to explore the world. \n\nOne day she was hopping in the forest when something big happened! The trees began to shake and the ground rumbled.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0099.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0100",
+    "text": "Once upon a time, there was a little girl named Molly. She was very worried, because she had lost her favorite toy. One night, while she was crying in bed, she heard a gentle hooting sound.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0100.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0101",
+    "text": "Once upon a time there was a small boy who wanted to go on an adventure. He decided to take a boat out to sea. After a few hours, the boat sailed onto a big, beautiful island.\n\nThe island was so nice that the boy wanted to explore it.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0101.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0102",
+    "text": "Once upon a time there was a black record. It was very helpful and it could do great things.\n\nOne day, a 3 year old wanted to use the record. The record said, \"I can't help you out.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0102.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0103",
+    "text": "Once upon a time, there was a girl named Jane. She was spreading candy around with her friends. Everyone was having so much fun; they couldn't stop laughing.\n\nSuddenly, John came over to the group and saw everyone with the candy.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0103.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0104",
+    "text": "Once upon a time there was a little girl who loved to play. Everywhere she went she would find something new and exciting to play with.\n\nOne day the little girl was playing in the garden when she found a strange passport. The passport looked weird and she wondered where it had come from.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0104.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0105",
+    "text": "One day, Mom and Jack were in the garden. Jack looked around and saw all the different colors of the flowers. \"Mom, can I pick one?\" he asked.\n\nMom nodded.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0105.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0106",
+    "text": "John watched a bug crawl across the grass. He was careful not to hurt it. His mom smiled as she watched him.\n\nMom picked up the little bug and put it inside her case.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0106.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0107",
+    "text": "Once there was a boy. His name was Tim. He was three years old and was very adventurous.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0107.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0108",
+    "text": "Once there was a messy lizard. He wanted to move around the garden. He saw a beautiful flower and said to himself, \"I can move that way.\" So the lizard moved towards the flower.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0108.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0109",
+    "text": "Once there was a little girl named Ella. She was the most popular girl in school. She loved to play on the balancing beam in the playground.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0109.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0110",
+    "text": "Mama and Papa had a party for their little girl. It was her third birthday. Everyone had come over to celebrate.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0110.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0111",
+    "text": "Jack and Sue were playing in the yard when they spotted a Dinosaur. They both ran up to it to take a closer look. Sue was filled with amazement.\n\n\"Wow!\", she said awely.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0111.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0112",
+    "text": "Once upon a time there was a little girl named Emily. She was very excited when she woke up one morning because she was going to have a special surprise. \n\nEmily was told over breakfast to put on her shoes and wait outside.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0112.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0113",
+    "text": "Once upon a time, there was a zipping sound in the quiet room. It sounded like someone was playing with something. Two friends, Mel and June, were curious and excited to find out what was making the noise.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0113.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0114",
+    "text": "John went to the market one day with his mom. He saw a beautiful blue kite that he really wanted. His mom told him he couldn't have it, but he wouldn't listen.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0114.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0115",
+    "text": "Once upon a time there was a bird named Max. He loved being able to soar through the sky. One day however, Max felt helpless when his wing was injured.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0115.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0116",
+    "text": "Once upon a time, there was a light beetle. He had never been outside and wanted to see the world.\n\nSo one day, the beetle crawled out of its box and looked around. Suddenly, he saw a big tree and decided to climb it.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0116.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0117",
+    "text": "Once upon a time there was a very playful puppy named Jack. Jack loved printing, which meant that he could make lots of paper with colourful patterns. \n\nOne day, Jack found a small pill on the floor.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0117.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0118",
+    "text": "Once upon a time there was a bridge. It was very smooth. All the animals wanted to walk on top of it.\n\nOne day a little mouse was walking across the bridge.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0118.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0119",
+    "text": "Once there was a boy who lived in a very beautiful landscape. He loved exploring the landscape and learning about all of the amazing things it had to offer. \n\nOne day, while exploring the landscape, the boy came upon a very bossy chipmunk.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0119.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0120",
+    "text": "Once upon a time, there was a boy named John. He was three years old and he was excited for his new birthday. He hoped he would get a special present.\n\nJohn's mummy took him to the park where all of his friends were.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0120.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0121",
+    "text": "Mummy and Timmy were in the closet, looking for something. Mummy asked Timmy to pass her a hanger. Timmy refused because he wanted to pick it himself.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0121.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0122",
+    "text": "Once there was a little girl named Amy who loved to skip. She could skip from the flower bed to the mailbox, the sidewalk to the trees. Every time she skipped she looked so happy that everyone in the neighbourhood just couldn't help but smile.\n\nOne day Amy's dad asked her to come into his workshop.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0122.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0123",
+    "text": "Once upon a time, there was a very selfish boy who loved to scare his friends. One day, he brought a gas mask to school and he wanted to scare everyone. He even put on the gas mask himself and then tried to scare his friends.\n\nHis friends were scared and became angry.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0123.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0124",
+    "text": "Once upon a time, there lived an orange tree. All the oranges on the tree were delicious and juicy. The tree wanted to share its delicious oranges with the world.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0124.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0125",
+    "text": "Once upon a time, there was a pirate who lived in a far away land. He was a mean pirate and was very intelligent. He looked for ways to steal from others.\n\nOne day, he noticed two young kids playing nearby.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0125.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0126",
+    "text": "It was time for the lecture to begin. Little Tom was excited to come to the high school and learn something new. When he arrived, he was amazed at the big space filled with many people.\n\nThe teacher started his lecture.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0126.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0127",
+    "text": "Once there was a poor little girl named Mary. Mary loved to kick around circles in the dirt. One day, Mary went to the park, kicked the circles around for a while, and got very tired.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0127.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0128",
+    "text": "Once there was a family of bear bears. Everyone was very happy and they had lots of fun together. \n\nOne day, the family was getting ready to go to a party.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0128.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0129",
+    "text": "Once upon a time, the ground was dry and hard. Granny was getting ready to go to the market to buy food. Little Jack asked, â€œCan I come with you, Granny?â€ Granny replied, â€œYes, itâ€™s a lovely day.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0129.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0130",
+    "text": "Once upon a time there were two friends named Fluffy and Daisy. They were very playful and loved to watch the world together. \nOne day, they decided to go on an adventure.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0130.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0131",
+    "text": "Once upon a time, there was a little girl called Anna. She was three years old and very curious. She wanted to explore the world around her.\n\nOne day, Anna was walking through the forest when she came across an old oak tree.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0131.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0132",
+    "text": "Once upon a time there was an orange needle called Frank. He had been in the same spot for years and he was getting bored. He wanted to explore, but he didn't know how to.\n\nThen one day, a small 3 year old child saw Frank.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0132.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0133",
+    "text": "Once upon a time there was a little boy who loved to explore. He wanted to see all the wonders of the world. \n\nSo one day he walked and walked until he came to the edge of a huge forest.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0133.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0134",
+    "text": "Once upon a time, there were two friends named Jack and Jill. Jack and Jill loved to match. Every day, they would match rocks, leaves, and sticks.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0134.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0135",
+    "text": "Once upon a time there were two friends, Jack and Jill. They were playing together in a big field. \n\nSuddenly, Jack noticed a deep well! He was so excited, he wanted to jump right into it.\n\nBut Jill called out, \"No, Jack! Don't jump!\" \n\nJack ignored her and he went nearer and nearer.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0135.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0136",
+    "text": "Once upon a time there was a white phone. The phone was special and could fold out. One day, a little girl, who was three years old, saw the phone and said \"Wow!\" \n\nThe girl wanted to play with the phone, so she carefully folded out the phone.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0136.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0137",
+    "text": "Once there was a strong stone. It wanted to stay by itself so it could be alone. But that was hard to do in the forest.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0137.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0138",
+    "text": "Mummy was with her little girl in the park. The little girl loved to play on the swings and they had been there a long time. \nMummy said, \"We should go soon.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0138.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0139",
+    "text": "Once upon a time there was a kid named Danny. He was playing all alone, but he was not scared. \n\nSuddenly, he saw a big bug.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0139.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0140",
+    "text": "Once upon a time there was a crab named Bob. He lived in a big rock by the sea. One day, Bob was walking along the beach and he saw a little girl playing.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0140.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0141",
+    "text": "Once there was a bear who loved spicy food. He always used to pick the spiciest of all the food in the village. One day, he was making his usual rounds at the village market when he saw his friend, the rabbit.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0141.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0142",
+    "text": "Once upon a time, there was a brave turtle. She was very small, but full of courage. One day, she decided to explore the big world and find new things.\n\nShe started to crawl very slowly.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0142.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0143",
+    "text": "Once upon a time there was a fat penny. She looked so shiny and beautiful that she made a young boy smile. The boy picked up the penny and decided to take it home with him.\n\nWhen he arrived home, the boy's mother said, \"You can't keep the penny, it doesn't belong to us.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0143.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0144",
+    "text": "It was a warm summer day when Billy and his dog, Spot, went for a walk. They continued down the path, hand in hand. As they walked, the waist high grass swayed in the breeze.\n\nSuddenly, Spot spied something shiny in the grass and scrambled to get it.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0144.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0145",
+    "text": "Once upon a time, there was a little boy called Jack. Jack was three years old. He wanted to go out and have some fun.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0145.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0146",
+    "text": "Once upon a time, there was a little girl named Jane. She was three years old and she was very curious. One day, she asked her mom if she could have some shrimp for dinner.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0146.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0147",
+    "text": "Once upon a time, there lived a girl. She was just three years old and very tidy. Every day, she would clean up her room and make sure everything was in its place.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0147.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0148",
+    "text": "John was walking outside on a warm summer day. He was laughing and feeling happy. Suddenly, he saw a small pile of ash on the ground.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0148.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0149",
+    "text": "Once upon a time there was a kid named Todd. He was three years old and loved adventure. One day, he decided to sail out to sea on a homemade raft.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0149.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0150",
+    "text": "Once upon a time, there was a dependable monkey named James who lived in the woods. He went out every day looking for food and play. All the animals in the forest respected him and always followed his lead.\n\nOne day James heard a strange noise coming from the top of the tallest tree.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0150.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0151",
+    "text": "Once upon a time there were two friends, Jack and Jill. They were walking in the woods when they saw a turkey. \n\nâ€œLetâ€™s get the turkey!\" said Jack.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0151.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0152",
+    "text": "Once upon a time there was a brilliant engine who lived in a car. One day, the car drove to a special place with a lot of cars. The engine met many other engines.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0152.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0153",
+    "text": "Sam was a curious little three-year-old, who loved going on adventures. One day, while walking outside, he noticed a big, gloomy looking door. A chill ran down his spine, but his curiosity was stronger.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0153.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0154",
+    "text": "Bob needed to go the bathroom. He ran down the hallway and into the bathroom. It was really hot in the bathroom; the sun was beating down on the windows.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0154.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0155",
+    "text": "Once upon a time, there was a brave prince. He loved to learn swordfighting. Every day he would go practice with his teacher.\n\nOne day his teacher said he was ready to learn the secret of the sword.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0155.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0156",
+    "text": "Paul was feeling very happy. Today he was meeting his old friends from his childhood. Paul was excited to see them again as it had been a long time.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0156.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0157",
+    "text": "Mia was walking in the forest. She heard something that made her stop and listen. Was it a bird chirping? No, it sounded like whistling.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0157.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0158",
+    "text": "John was in the park with his Mom. He loved the park and he was always looking out for animals. Suddenly, he saw something in the distance - it was a big, green dinosaur! John was so excited so he couldn't help running towards it.\n\nJohn's Mom yelled after him and warned him to stop.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0158.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0159",
+    "text": "Once upon a time, there lived a little girl named Kate. She was 3 years old and loved to play with her toys. One day, she was playing with her stuffed cat, when she noticed a red spike on the ground.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0159.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0160",
+    "text": "Once an day, Jimmy and his mum went to the park. Jimmy was so excited to go on a special adventure. He saw a big wheel and wanted to go on it.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0160.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0161",
+    "text": "One sunny day, Jimmy found an old bicycle in the grass. It was hairy with lots of rust. He couldn't wait to try it! Jimmy ran to get his older brother Dave, who was very happy to help him.\n\n\"Let's push it to the street,\" said Dave.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0161.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0162",
+    "text": "Once upon a time there lived a shy little girl named Denise. Denise loved adventures and playing outside. One day Denise went to the beach and asked her mom if she could swim in the ocean.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0162.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0163",
+    "text": "Once upon a time, there was a naughty little mouse. His name was Peter. Peter liked to play all day and never listen to his mom.\n\nOne day, Peter took a walk in the forest.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0163.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0164",
+    "text": "Once upon a time there was a small bunny called Alice. Alice liked to do things all by herself. She was very independent.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0164.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0165",
+    "text": "Once upon a time, there were two bears, Bob and Jenny. Bob was a young bear, and Jenny was an old bear. They were discussing the summer day.\n\n\"The sun is shining brightly and it's making the blossoms in the trees sparkle,\" said Jenny.\n\nBob looked at the ground and noticed the dust near his paws.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0165.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0166",
+    "text": "Once upon a time there was a little girl, who was very excited. She loved playing outside, especially in her garden. One day, when she was playing in the garden, she spotted something unusual.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0166.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0167",
+    "text": "Mommy and Daddy were eating dinner. Mommy said, \"What do you want for dinner?\" Daddy looked at the menu and said, \"I can't decide. It looks difficult to choose.\"\n\nThen Daddy had an idea.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0167.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0168",
+    "text": "Once upon a time there was a little girl called Lacy. She was very happy, playful and loved to explore her world. \n\nEvery day, Lacy had lots of fun as she played in her backyard.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0168.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0169",
+    "text": "Once upon a time, there was a chubby little girl called Daisy. Daisy loved her mummy and daddy very much, and she spent every day playing with them.\n\nOne day, Daisy went to play in the garden. While she was there, she found a beautiful crystal lying in the grass.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0169.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0170",
+    "text": "Ben and his dad walked through the swamp. Everywhere there were logs lying around. Dad was looking for a perfect log to take home.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0170.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0171",
+    "text": "Once upon a time, there lived a young girl. Her name was Molly and she was three years old. Molly's mummy was so proud of her daughter.\n\nOne day, Molly was feeling a bit wild.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0171.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0172",
+    "text": "Mummy and John were in the park. John was eating his ice-cream, while Mummy was talking to a friend. Suddenly, John felt embarrassed as he saw everyone around them staring at him.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0172.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0173",
+    "text": "Jack and Jill were walking up the hill. Jack said to Jill, \"I am thirsty. Let's get some water from the river.\"\n\nThey quickly ran to the riverbank.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0173.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0174",
+    "text": "Henry loved to learn about the world. He loved to watch people and see what they did. One day, Henry went for a walk and saw a smooth lake.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0174.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0175",
+    "text": "Once there was an old man. He saw an old brick and thought it would be fun to take it home to play with. So he went to steal it.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0175.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0176",
+    "text": "The sun showed its face in the morning sky and it shone brightly. The birds flew up to the sky and sang their happy song.\n\nThen, a little girl named Lucy came out of her house and looked up. She saw the bright sun and the fluffy clouds.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0176.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0177",
+    "text": "Once upon a time, there was a girl. She was very excited, because her mom had just given her a surprise. It was a special presentâ€”a red pedal car! She could go anywhere she wanted with it.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0177.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0178",
+    "text": "Little Jack was so proud of his igloo. It was the biggest one in the neighbourhood and he had worked so hard on it with his dad.\n\nLittle Jack's dad called to him from the porch. \"Let's go for a walk!\" he said.\n\nJack eagerly jumped up and ran over.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0178.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0179",
+    "text": "Once upon a time there was a heavy truck. The truck belonged to a man called Ben. One day, the truck stopped working, so Ben took it to a mechanic.\n\nWhen Ben arrived at the mechanic's shop, the mechanic told him that the truck had frozen.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0179.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0180",
+    "text": "Once upon a time there were two friends, Jack and Lea. They were playing in the park one day when Jack said, \"Let's do an exercise!\" \n\nLea said, \"What's an exercise?\" \n\nJack said, \"It's a rare thing that we can measure. It's a thing that makes us feel strong and happy.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0180.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0181",
+    "text": "Once upon a time there was a little girl called Max. Max loved to play outside in the sunshine. One day, while she was playing, a big bad monster appeared.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0181.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0182",
+    "text": "Once upon a time there was a little girl called Amy. She was three years old and she had a pet puppy. The puppy was very playful and always running around the garden.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0182.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0183",
+    "text": "Once upon a time there was a young girl who lived in a small house. One day she decided to go for a walk in the woods near her house. While she was walking, she saw a small door in the ground.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0183.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0184",
+    "text": "One day there was a clever radio. It sang lovely songs and made everyone happy. But then something strange happened.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0184.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0185",
+    "text": "Minnie was a three year old girl who loved to explore. One day, she decided to investigate an old house in the woods. As she started to look around, she noticed a message written on the door - it said \"tough times ahead\".",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0185.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0186",
+    "text": "Once upon a time there was a car. The car was slow and it made the driver feel sad. The driver said, \"I wish I could make my car go faster.\"\n\nThe driver's friend said, \"I have an idea, let's try to improve your car!\"\n\nThe driver was so happy.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0186.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0187",
+    "text": "Once upon a time, there lived a little boy named Jimmy. One cold day, Jimmy was playing with a knife in his yard. He thought it was fun to use the knife to cut things.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0187.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0188",
+    "text": "Once upon a time there was a girl called Emma. Emma was very obedient. One morning, Emma went into her classroom.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0188.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0189",
+    "text": "Once upon a time there was a girl called Molly. She was three years old and loved learning new things. One day she saw something new, she did not know what it was called.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0189.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0190",
+    "text": "Once upon a time, there was a bear. The bear was walking through the woods when he heard a loud snap. He looked around and saw a curtain hanging down from a branch.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0190.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0191",
+    "text": "John was a little boy. He loved to go outside to play with the birds and trees. One day, he went out to the park.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0191.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0192",
+    "text": "Once upon a time there was a thin tower. It was so tall that it stretched up into the clouds. Every day a girl would come and stare up at it.\n\nShe enjoyed watching it, and the tower seemed to watch her back.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0192.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0193",
+    "text": "Once there was a boy named Jack. He was three years old and he loved playing with his friends. One day, he was walking in the park when he saw a glove on the ground.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0193.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0194",
+    "text": "Once upon a time, there was a pretty kitty who lived with its mommy in a nice home. The kitty was always so careful, but one day it noticed something strange. A thief had snuck into their home while they were sleeping.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0194.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0195",
+    "text": "One day, a little boy was playing in his garden. He was excited to feel the sun on his face and the grass beneath his feet. Suddenly, he noticed a spider crawling towards him.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0195.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0196",
+    "text": "Once there was a very shy 3 year old named Andy. He liked to play with his many teddy bears, but he wasn't sure what to do when he was outside. One day, Andy's mom took him to the park.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0196.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0197",
+    "text": "It was a hot day and Sandy and her mommy were at the park. Sandy blinked in the bright sunlight and looked around. Everything was so much fun.\n\nSuddenly, Sandy saw a butterfly fluttering in the sky.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0197.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0198",
+    "text": "Once upon a time, there was a little boy named Tom. Tom loved to look up at the sky every night. He would often see a comet speeding by and it would always make him happy.\n\nOne night, Tom was a bit worried because he couldn't see the comet.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0198.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0199",
+    "text": "Kari was so excited. She was going to the park. \"Mum, can I take the blocks?\" She asked.\n\nMum said yes and gave Kari a bag full of blocks.\n\nAt the park, Kari found a big tree and sat in the shade.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0199.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0200",
+    "text": "Jimmy was swinging in the playground. He loved being high up in the air and how it made him feel so light. His friends were there too and everyone was having a great time.\n\nSuddenly, Jimmy heard a loud noise.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0200.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0201",
+    "text": "Once there was a generous bear. He liked to help others and was always very kind. But he had one habit that no one really knew about: he loved to eat clay!\n\nEvery day he would go outside and search for clay in the woods.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0201.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0202",
+    "text": "Once upon a time, there was a farmer who wanted to buy something special. He had a rare barn and wanted to give it an extra sparkle. So he went out to buy the perfect thing.\n\nThe farmer searched and searched, but nothing seemed quite right.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0202.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0203",
+    "text": "Once upon a time there was a boy named Frank. Frank loved to play with his sock. He thought it was so fun to throw the sock in the air and catch it.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0203.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0204",
+    "text": "Once upon a time, there was a little girl named Jacky. Jacky loved playing with her helicopter. She liked to fly it high in the sky and spin around and around.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0204.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0205",
+    "text": "Clarissa was feeling very grumpy as she watched the soldiers walk by. \"What's wrong?\" Her mother asked. \"Why don't you play with them in the garden?\"\n\nClarissa shook her head, \"No.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0205.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0206",
+    "text": "Once upon a time there was a little girl named Jane. She was only three years old.\n\nOne day, she asked her mom for something sweet. Her mom said yes and gave her a blueberry muffin.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0206.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0207",
+    "text": "Once upon a time, there were two friends who loved to play together. One day, they played a game of hide and seek. After a few minutes, one of them found the other.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0207.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0208",
+    "text": "Bob and Sue were going to a party. They were celebrating Sue's birthday. When they arrived, Bob started kicking the ball around.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0208.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0209",
+    "text": "The sun shone brightly in the sky, making the grass very dry.\n\nTommy and his dad were outside playing football. Tommy enjoyed playing football with his dad very much.\n\nSuddenly, Tommy started to sneeze. He sneezed so hard that he dropped the football.\n\nHis dad said, \"Bless you, Tommy.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0209.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0210",
+    "text": "The sun was shining brightly as John stepped out of his tiny house. He was an ignorant child who loved nothing more than running and playing. He had an old sheet he used as a blanket and he often imagined himself as a superhero.\n\nJohn always wanted someone to play with but there was nobody around.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0210.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0211",
+    "text": "Once upon a time, there was a very fast onion named Gary. He was so fast, that he could even race the wind. He liked to brag about his speed to all of his friends.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0211.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0212",
+    "text": "Once upon a time, there was a patient nurse. Her name was Sarah and she worked at a hospital. Every day, she looked after the children and made them feel better.\n\nOne day, Sarah was taking care of a 3 year old boy called John.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0212.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0213",
+    "text": "Once upon a time, there was a little girl called Alice. She was three years old and very obedient. \nOne day, her parents took her to the beach.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0213.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0214",
+    "text": "Once upon a time, there was a little girl called Maisy. She was playing in her bedroom when she saw a big chest in the corner. Maisy was very curious, so she walked over to the chest and opened it.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0214.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0215",
+    "text": "Jenny and her mom were walking in the park one day. Suddenly they noticed a raven on a nearby tree. Jenny asked her mom who the little black bird was.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0215.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0216",
+    "text": "It was a gloomy day outside, but Sarah wanted to play. She ran to the garden with her bucket, ready to have some fun.\n\nSarah filled her bucket with water from the pond, then she grabbed a pebble. She looked up at the sky and threw the pebble in the water.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0216.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0217",
+    "text": "Mummy and Daddy were picking flowers in the garden. Mummy picked a red daisy, Daddy picked a purple thistle and the little girl picked a beautiful lily. The lily was her favorite because it was so fluffy and white and the aroma was heavenly.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0217.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0218",
+    "text": "Once upon a time, there was a father and daughter. The little girl was very excited because her daddy was going to paint their house.\n\nThe daddy grabbed a paintbrush and a big tin of paint. He said to his daughter â€œLetâ€™s go and paint the house!â€\n\nThe little girl ran to get her toy axe.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0218.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0219",
+    "text": "Once upon a time, Lucy the bee was flying in the meadow. She was looking for a place to build her hive.\n\nSuddenly, she saw a small, hairy bush. She flew over to take a closer look and saw that it was perfect!\n\n\"I'll make my home here,\" she said happily.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0219.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0220",
+    "text": "It was a beautiful day and Little Joe wanted to go for a walk. He quickly put on his shoes and ran outside. \n\nOn the grass, he saw a big hole.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0220.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0221",
+    "text": "The sun was shining brightly in the sky, and Jack was running, because he wanted to go fast. He wanted to speed away across the grass. His mum, who was watching from the side, said, â€œJack, careful now, you donâ€™t want to trip!â€ Jack stopped and looked to the left.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0221.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0222",
+    "text": "Once upon a time, Jane was walking through the forest. Suddenly, she saw a skull in the grass. It looked messy, like someone had been digging around.\n\"Hmm...",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0222.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0223",
+    "text": "Once upon a time, there were two friends named Lily and Max. They were playing in the garden outside of Lily's house. Lily's garden was so rich and colorful, with big green trees and red, yellow, and orange flowers.\n\nMax looked around and noticed something.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0223.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0224",
+    "text": "Once upon a time there was a hairy monster who lived under a mountain. The monster was so naughty that the other animals were scared of him. One day, the monster wanted to escape from the mountain, so he bit through the stone walls.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0224.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0225",
+    "text": "Once upon a time there were two best friends named Tim and Jack. They had been friends since they were little and always looked out for each other.\n\nOne day, Jack got the exciting news that he had been accepted to the university of his dreams. He was so excited to get started on this new adventure.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0225.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0226",
+    "text": "One day, a small boy called Sam found a kite in the park. He was so happy to see it! He ran to get it and started to fly it.\n\nSuddenly, an old man came over and told him, \"Stop! You're disturbing me!\" Sam was so scared.\n\nThe old man had a very gentle voice. He said, \"This kite belongs to me.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0226.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0227",
+    "text": "Once upon a time there was a truck. It was big and yellow and it liked to go out for rides. One day, the truck was driving down the road and it saw a little girl.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0227.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0228",
+    "text": "Once upon a time, there was a little girl named Lucy. She was only three years old. She loved playing outside in the sunshine and running around with her furry cat.\n\nOne day, she noticed a big hairy stack of hay in the corner of her garden.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0228.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0229",
+    "text": "There was a boy called Will. He loved to play outside. One day, he found a wagon and he thought it was his.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0229.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0230",
+    "text": "One sunny day, a pirate was wandering through the woods. He had a big, shining hat, two swords and a wooden leg. Suddenly he heard a noise coming from the bushes.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0230.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0231",
+    "text": "John ran quickly to the mall. As he looked around, he saw so many things. He found a deep pond with lots of fish inside.\n\nâ€œWow,â€ John said.\n\nJohn saw Mommy walking up to him.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0231.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0232",
+    "text": "Once there was an infant playing in a garden. He was with his mom and dad. The infant looked around, examining the colourful flowers and plants.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0232.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0233",
+    "text": "Once upon a time, there was a little girl named Molly. Molly had a great big, hairy dog. They were very happy together.\n\nOne day, Molly and her dog were out walking in the park when they heard a noise.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0233.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0234",
+    "text": "Ted was a lively little boy. He was always ready for adventure. One day Ted found a shiny red helmet and he couldn't resist trying it on.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0234.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0235",
+    "text": "Once upon a time there was a puppy. He was small and brown, and loved to play. Every day, he would go out on fun adventures with his dad.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0235.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0236",
+    "text": "Once upon a time, there was a little girl called Claire. She was very brave and powerful. One day, she was playing in her yard when she saw a patient sitting on the grass.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0236.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0237",
+    "text": "Once upon a time, there was a little girl who loved playing with her doll. Her doll was the best in the whole wide world. Every day, she would take the doll out of its box and admire the bright eyes and soft hair.\n\nOne day, the little girl saw a beautiful rug in the living room.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0237.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0238",
+    "text": "Once upon a time, there was a little girl. She had a black candle in her hand. She said, \"Let's go and rest!\" The little girl set her black candle down and flopped on the bed.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0238.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0239",
+    "text": "Once upon a time, there was a little boy named Andy. He loved to explore and watch the world around him. Everywhere he went, Andy was curious and wanted to know more.\n\nOne day, Andy saw an interesting clock.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0239.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0240",
+    "text": "Once upon a time, there was a small girl. She had a curious mind and liked to explore the world. One day, she was playing in her garden when she noticed a tall hedge.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0240.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0241",
+    "text": "Once there was a modest pilot who flew a plane each and every day. One day, a loud siren rang from his plane. He had no choice but to put on the parachute and save himself.\n\nThe pilot looked down from the sky and saw a river below.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0241.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0242",
+    "text": "The curtains were hanging cleanly in the windows of the little room. Every day, the girl would run in and whisper secrets to them. She hadn't noticed it before, but today, when she was talking in her very quietest voice, the curtains rustled as if in response.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0242.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0243",
+    "text": "Freddy the teddy was feeling very lonely. He wanted a friend to play with. One day he went for a walk and he rolled past a big house.\n\nWhen he got to the doorstep, he heard a voice.\n\n\"Hello? Who's there?\" The voice said from behind the door.\n\nFreddy was so surprised.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0243.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0244",
+    "text": "One day, Mommy and Little Man were in the park. Little Man was hungry and Mommy gave him a spoon. Little Man excitedly started walking and he saw a dangerous-looking bee.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0244.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0245",
+    "text": "Once upon a time there was a three year old girl named Lily. She was playing with her favorite toy when suddenly she heard a loud noise. \n\nLily was afraid so she ran and hid behind the dining room table.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0245.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0246",
+    "text": "Once upon a time, there was a little girl named Jane. Jane wanted some rice for dinner. She asked her mom, \"Mom, can I have some rice for dinner?\"\n\nHer mom smiled and said, \"Of course, Jane.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0246.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0247",
+    "text": "Once upon a time there was a little girl called Daisy. Every day she would ask her parents to teach her new things.\n\nOne day, Daisy saw a model car on the table and asked her mum to teach her about it. Daisy's mum said she would, but first Daisy had to do her chores.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0247.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0248",
+    "text": "Tommy was playing in the park with his new helicopter. He was very excited. His papa had given it to him for his birthday.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0248.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0249",
+    "text": "Once there was a little girl named June who loved to drive. She had a beautiful car that was blue and silver and she loved it very much. One day, June wanted to drive to hear her favorite band play.\n\nJune asked her mom, â€œCan I drive to the band?â€\n\nMom said, â€œYes, June.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0249.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0250",
+    "text": "Mia was playing outside in the enormous park. She could see so many things. There were trees, and rocks, and slides.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0250.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0251",
+    "text": "Linda was walking in the forest when she saw something mysterious. She had to take a closer look. She slowly approached it, and realized it was a bulb.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0251.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0252",
+    "text": "Once there was a bird who lived in a forest. One day it wanted to fly, so it flapped its wings and rose high into the sky. Its wings were strong and it felt so free.\n\nBut then it started to feel something strange, a thick, dark ash was filling the air.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0252.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0253",
+    "text": "Once upon a time, there was a clean picnic in the park. Two kids, one called Ben and the other called Lucy, were excited to eat their lunch. \n\nBen said, \"Let's close the picnic basket so no bugs come in\".",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0253.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0254",
+    "text": "Once there was a mommy and a toddler. The toddler wanted to try to do yoga with mommy. So they tried it together.\n\nThe toddler tried to touch his toes, but he could not do it.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0254.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0255",
+    "text": "Once upon a time, there was a deaf, three year old girl. She loved going to the library every day and read books.\n\nOne day, while she was reading, she came across a big book about history. She was curious and wanted to read it, even though she was scared of its size.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0255.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0256",
+    "text": "Once upon a time, there was a girl called Lucy. She was very small, only three years old, and sometimes felt helpless. Lucy wanted to explore the world, so one day she decided to wander.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0256.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0257",
+    "text": "Once there was a panda who was very hairy. He was called Andy. Every day, Andy would go and search for food.\n\nOne day, he was walking deep in the forest when he saw a small cave.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0257.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0258",
+    "text": "Once upon a time there were two brothers named Billy and Joe. They both loved to explore the outdoors and always looked for adventure. One afternoon, they decided to take a walk in the woods.\n\nSuddenly, something strange happenned.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0258.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0259",
+    "text": "Danny was in a hurry. He wanted to get to the park quickly and he ran as fast as he could. His mama said they would be late if he didn't hurry up.\n\nWhen they got to the park, Danny was eager to run and play.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0259.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0260",
+    "text": "Once upon a time, in a small village there lived a young girl called Lucy. She was very popular among her friends for her vibrant and happy personality. One day, when Lucy was walking past the park, she spotted something in the grass.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0260.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0261",
+    "text": "Once upon a time there were two friends, Joe and Jenny. Joe and Jenny loved to play together outside. Today, they were playing at the beach.\n\nThe beach was clear and the sun was shining.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0261.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0262",
+    "text": "Once upon a time there was a girl and her name was Sarah. Sarah loved to share her toys with her friends. One day she went upstairs to her bedroom, and she saw something beautiful.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0262.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0263",
+    "text": "Once upon a time, there was a little girl named Jane. She was a very curious three-year-old who liked to explore. One day, she decided to go for a walk in the park.\n\nOn her way she saw a big hill.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0263.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0264",
+    "text": "Tim was feeling very nervous. He didn't like to talk in front of big crowds. Everyone was watching him and he felt scared.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0264.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0265",
+    "text": "Benny was at the airport with his mom. He watched as people moved around him with huge suitcases. They made careful steps with the big bags.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0265.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0266",
+    "text": "Once upon a time, there was a delicate boat floating in the ocean. It was getting tired so it decided to take a rest. The boat gently floated to a beautiful harbor.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0266.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0267",
+    "text": "John was out at the park with his family. He wanted to act brave, so he ran and jumped across the wooden bridge. But when he reached the other side, he felt a bit dizzy.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0267.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0268",
+    "text": "Once upon a time, there lived a little girl. She had a special mission; to collect doves. Everyday she would put on her brightly coloured dress and her sparkly shoes and go out collecting.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0268.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0269",
+    "text": "Once upon a time, there was a small, weak girl. One day, she went on an adventure and went to the beach. On the beach, she saw the ocean, which was big and blue.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0269.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0270",
+    "text": "The sun shone brightly in the jungle that day. Bob the monkey was sad. He watched the other animals in the jungle playing together.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0270.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0271",
+    "text": "Once upon a time, there was a little boy named Jack. Jack was a happy and active child who loved to play around wherever he went.\n\nToday, Jack was feeling very tired so he decided to take a nap. He found a big tree and he decided to take a stand underneath it.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0271.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0272",
+    "text": "Fred was a robot who lived on a planet far away. He loved to go on adventures and one day he wanted to explore. He put on his running shoes and began to jog.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0272.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0273",
+    "text": "Once upon a time there was a boy called Tom. Tom liked to play outside but sometimes he got tired and wanted to rest. One day, Tom was sitting in his garden and saw something he wanted - a nice, red stamp.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0273.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0274",
+    "text": "Once upon a time there was a prince who was very rude. He was always unkind to everyone he met.\n\nOne day he met a little girl who was only three years old. She was so sweet and kind.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0274.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0275",
+    "text": "Tiny Tom was walking in the park with his mom when he suddenly saw a huge well. He looked up at his mom with excitement and asked, \"What is that well mommy?\". His mom smiled and replied, \"Well, it's a very deep hole in the ground with water at the bottom, sweetheart\".",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0275.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0276",
+    "text": "One day, a fox was wandering through the forest. The fox moved quickly and gracefully, her playful spirit showing in her every step. All of a sudden, she saw a small rabbit ahead.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0276.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0277",
+    "text": "Once upon a time there was a little girl. Her name was Sophie. Sophie was very kind.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0277.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0278",
+    "text": "One day, John was playing outside in the rain. He splashed in puddles and kicked up mud. He was having lots of fun, and was almost completely soaked.\n\nHe went inside to tell his mom.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0278.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0279",
+    "text": "Once upon a time, there was a little boy. He was looking for something to pick. He saw a jet in the deep sky.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0279.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0280",
+    "text": "Once upon a time there was a little girl called Sarah. She had a white purse made of the softest silk. Every day, when Sarah was out for her walk, she would carry her purse with her.\n\nOne day, Sarah was walking through the park, when she noticed a beautiful white bird.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0280.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0281",
+    "text": "Once upon a time, there was a young girl named Emmy. Emmy was gifted and curious. She often wondered what it would be like to be something else in the world.\n\nOne day, Emmy saw a beetle.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0281.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0282",
+    "text": "Once upon a time there was a poor witch. One day she was walking through the woods when she heard a loud sound. She looked up and saw an arrow shooting through the sky.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0282.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0283",
+    "text": "Once upon a time there was a little boy called Billy. Billy was very impatient and he could never wait for anything.\n\nYesterday, Billy wanted to attach a ball to a piece of string. His big brother said, â€œWait for me.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0283.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0284",
+    "text": "Mommy and Jimmy were walking down a path one night. It was dark, and their shadows were long. \nJimmy said, \"Mommy, look at my shadow.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0284.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0285",
+    "text": "Once upon a time, there was a furry bear. He had fluffy fur and a long, hairy tail. He was always curious about the world and he wanted to wander.\n\nOne day, the bear had an idea.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0285.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0286",
+    "text": "Once upon a time there was a little girl who lived in a bright town. The girl loved to play outside and be with her friends. But, she did not always behave.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0286.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0287",
+    "text": "Andy and his mom were walking in the park. Mom had a small bag with money in it. Andy was very excited.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0287.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0288",
+    "text": "Once upon a time there was a proud little girl and her staff. Every day the girl would play by the nearby river and splash in the water. She loved to splash and make big waves.\n\nOne day, as the little girl was playing in the river, she heard a voice.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0288.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0289",
+    "text": "Once upon a time, there was a pig who wanted to escape his pen. He tried pushing the gate open, but it was too hard. He asked the farmer, \"Can you fix it?\" The farmer said, \"No, that gate is too strong.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0289.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0290",
+    "text": "Once upon a time there was a little girl named Bella. She was very happy. One day she wanted to wear her favourite blouse.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0290.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0291",
+    "text": "Once upon a time, there was a little girl named Mae. Mae had lots of friends. One day, Mae and her friends wanted to pick some squash from the garden.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0291.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0292",
+    "text": "Once upon a time there was a kind rabbit. He loved to hop around in the sunshine and eat carrots. One day he heard a crunching noise.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0292.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0293",
+    "text": "Once upon a time, there was a little boy named Tom. Tom was very curious and ran around the garden with his friends. One day, Tom saw something in the garden that made him stop.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0293.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0294",
+    "text": "Jack wanted a bow. He had always been regular and dreamed of having one. He asked his mom for it but she said no.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0294.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0295",
+    "text": "One day, two children, named Jack and Kate, were walking in the forest. Suddenly, Jack noticed a mug. It was behind a big tree and it was painted yellow.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0295.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0296",
+    "text": "Once upon a time there was a great big bear. He wanted to borrow some snow for a playdate with his friends. He asked the little fox, who was close by, if he could borrow some snow.\n\nThe fox said, â€œNo, I canâ€™t lend you any snow.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0296.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0297",
+    "text": "Once upon a time, there was a kid named Leo. Leo was playful and always smiling. He loved to tell jokes and make people laugh.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0297.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0298",
+    "text": "Once upon a time, there were two friends who were walking in the forest. One of them suddenly stopped and said to the other: \"Let's play a game!\"\n\nThe other friend said, \"Yes!\" and they both started to look around. Then, the first friend saw a weapon.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0298.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0299",
+    "text": "Once upon a time there was a young girl named Daisy. Daisy wanted a pet bird so she asked her mom if she could get one. \n\n\"No Daisy,\" said her mom, \"itâ€™s too much work to take care of a bird.\" \n\nDaisy was disappointed and sat down on the couch.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0299.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0300",
+    "text": "Once upon a time there was a boy named Sam. He was three years old. Sam had a big white rake.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0300.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0301",
+    "text": "Once upon a time, there was a small elf named Pixie. She was very good at solving problems. One day, Pixie saw something strange in the sky.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0301.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0302",
+    "text": "Once there was a little girl named Emma. She had a red hose and liked to shoot it in the air. She would make funny shapes and designs with it.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0302.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0303",
+    "text": "Once upon a time there was a sad rock. Every day the rock wished it could do something exciting, but it couldn't. Until one day, it figured out how to zip!\n\nThe rock zipped around the garden all day long.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0303.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0304",
+    "text": "Charlie the cat was feeling very sleepy. He needed to get some exercise, so he put on his trainers and decided to go for a jog. He jogged down the street, feeling the sunshine on his fur.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0304.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0305",
+    "text": "Once upon a time, there was a little girl called Abigail. She was three years old and loved the colour pink.\n\nToday, Abigail was feeling very worried. She wanted to make things better, so she decided to order a pink balloon.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0305.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0306",
+    "text": "Once there was a brave jeep. He was an old jeep and had been around for many years. One day he decided he wanted to have an adventure! He drove off into the night.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0306.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0307",
+    "text": "Once upon a time there was a naughty sausage. He was naughty because he liked to stay up late and run around. His mom told him to go to bed every night but he wouldnâ€™t listen.\n\nEvery night he increased his naughtiness.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0307.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0308",
+    "text": "Once upon a time there was a bad jungle. No one wanted to go near it, because it was so bad. But one day a little girl decided to go in and explore.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0308.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0309",
+    "text": "Once upon a time, there was a little girl who lived on a farm. She had her own pet pig named Stan, who she loved very much. Everyday, she would take Stan for a walk around the farm.\n\nOne day, the little girl went to the forest to find some sticks to make a fire with.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0309.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0310",
+    "text": "Imagine a big field. It's full of bright, green grass. In the middle of the big field, there was a football.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0310.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0311",
+    "text": "Once upon a time, there were two friends, a boy and a girl. The girl had a spade, and she liked using it to dig in the ground. \n\nOne day, the boy said to the girl, â€œLetâ€™s make a hole together!â€ He had a spade too, and he held it in his hands.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0311.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0312",
+    "text": "Once upon a time, there were two best friends; one was a pig called Percy and the other was a rabbit called Ralph. They loved playing in the garden together. One day, they decided to do something special.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0312.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0313",
+    "text": "Once there was a huge bird. It lived high up in the sky and loved the wind. Every day, it would soar among the clouds and look down on the people in the world below.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0313.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0314",
+    "text": "Once upon a time there was an orange leak. The leak was always getting bigger and bigger. Until one day it split.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0314.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0315",
+    "text": "Once upon a time, there was a big black bear who loved the morning. Every morning he woke up, happy and content. He would leave his cozy bed and go explore the world.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0315.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0316",
+    "text": "The little girl yawned as she entered the room. She looked around and noticed everything was very unique. She touched the curtains which felt soft and squishy.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0316.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0317",
+    "text": "Once upon a time, there was a parade. Everyone was wearing comfortable clothes and were happy. They all had something to attach to their outfit.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0317.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0318",
+    "text": "Once upon a time, there was a little girl named Molly. She wanted to have a really fun day, so she decided to go to the park. \n\nWhen she got to the park, Molly saw a big tree with lots of leaves.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0318.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0319",
+    "text": "Jack and Jill were best friends. Jack wanted to show Jill an exciting surprise so he sent her a letter. In the letter it said that he was going on a rich jog.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0319.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0320",
+    "text": "Once upon a time there was a charming little girl and her father. Every day they liked to play together. One day the little girl had a paper in her hand.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0320.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0321",
+    "text": "Once upon a time there were two friends, Sam and Jack. Sam liked to fight and Jack liked to itch. One day, the sky was gloomy and Sam wanted to fight.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0321.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0322",
+    "text": "Once upon a time, there was a small girl. She wanted very much to go to the park. She asked her mom if she could go, but her mom said no.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0322.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0323",
+    "text": "Once upon a time, there was a little girl who loved to pretend. One day, she found a cane at the park. She was so excited and thought it was so cute.\n\nSo, she pretended the cane was a magic wand.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0323.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0324",
+    "text": "Once there was a brother who was very cheerful. He loved to laugh and play. One day he wanted to cover himself up so he got his blanket.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0324.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0325",
+    "text": "Once there was a boy who wanted to go on an adventure. He looked around and saw a big danger! He was so troubled.\n\nHe started to take a step but then he heard a noise. He stopped and he listened.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0325.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0326",
+    "text": "Once upon a time there was a little girl named Russel. Russel had a pet bunny. Every day, Russel would take her bunny for a walk in the park.\n\nOne day, Russel asked her mum if she could take some food with her.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0326.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0327",
+    "text": "Once there was a package. It was very attractive and hung from the wall. Inside the package was a mysterious gift.\n\nEvery day, a little girl would come to the package and try to open it.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0327.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0328",
+    "text": "Once upon a time, there was a bird that lived in the sky. Its feathers were soft, and its wings were strong. The bird liked to soar through the sky, feeling the wind and the sun's warmth on its wings.\n\nOne day the bird saw something wonderful.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0328.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0329",
+    "text": "Once upon a time there was a girl named Daisy. She loved to drink tea. Today, she was feeling very serious.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0329.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0330",
+    "text": "Once upon a time, there was a careless boy who stayed out at night. One night, his mom found out and she was really mad. She told the boy that he had to pay for his actions.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0330.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0331",
+    "text": "The pale stair was long. Sally wanted to go up it. But she had to delay.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0331.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0332",
+    "text": "Once upon a time there was a girl called Jen. She loved to go fast. Every week she would go to the park with her bike and speed across the grass.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0332.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0333",
+    "text": "Once upon a time there was a brave little sailor. He was on a big boat in the sea and wanted to explore faraway places. Suddenly, he noticed that the boat was not moving! It had become frozen in place.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0333.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0334",
+    "text": "Once upon a time, there was a little girl who wanted to observe what was going on near her. She saw a thermometer and thought it was very interesting. She got closer to get a much better look.\n\nSuddenly a rude man appeared and began to shout at her.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0334.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0335",
+    "text": "Once upon a time, there was a lonely hook. He was so lonely that he used to mention his loneliness to everyone he met. One day, he was walking down a path when he heard a voice.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0335.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0336",
+    "text": "The little boy lived in a quiet house. He loved to play outside. One day he decided to serve his family.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0336.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0337",
+    "text": "One day, a little girl named Emma went to the park with her dad. She was so excited! As soon as she arrived, she looked around and saw a tall stand filled with delicious treats. Emma's dad told her she could pick one.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0337.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0338",
+    "text": "Once upon a time, there lived a bald figure in the forest. He was called the Acceptor. Everyone in the forest respected him very much because he would accept anything that was given to him with a kind and friendly heart.\n\nOnce a week, all the animals in the forest would give him special presents.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0338.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0339",
+    "text": "Once upon a time, there was a nosy little cat called Fluffy. One day, Fluffy was wandering around when she noticed something shiny. It was a pattern of lines on the ground.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0339.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0340",
+    "text": "Once upon a time there was a little girl named Sue. One day Sueâ€™s mommy gave her a spade. The spade was so shiny and new! It was just the right size, fit for Sue.\n\nSue ran out into the yard with her spade and started playing.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0340.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0341",
+    "text": "Sandy was walking in the woods one day when she saw a big, tall tree. She had never seen a tree so big before! She smiled and nodded her head in approval.\n\nSuddenly, a small bird flew down from the tree and landed on Sandy's shoulder. Sandy was so surprised but she didn't move.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0341.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0342",
+    "text": "The little girl was excited to go on an adventure. Her favorite thing was going to the museum with her family. She always thought it was amazing.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0342.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0343",
+    "text": "Once there were two friends, Sarah and Tony. They both wanted a shelter. So they worked together to build one.\n\nTony and Sarah gathered wood and nails.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0343.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0344",
+    "text": "Once upon a time, in a big house, there lived a little girl. She was only three years old, but very determined and strong. She loved playing games.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0344.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0345",
+    "text": "Once upon a time there was a little girl named Jack. She was four years old and loved playing outside.\n\nOne day, Jack went outside to play. Suddenly, she saw something pink in the grass.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0345.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0346",
+    "text": "Once there was a little girl named Becky who loved to play outside. All of her favorite things to do were running, jumping and playing hide-and-seek.\n\nOne day, when Becky was playing outside, it started to get really cold. The air was so still, it felt like it was frozen.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0346.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0347",
+    "text": "The boy was ready to dive into the pool. It was so much fun splashing around and feeling like he was flying. He liked it so much he dove in again and again.\n\nThe lawyer watched from outside the pool.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0347.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0348",
+    "text": "Once upon a time, there was a boy named Jim. Jim was very careful and never wanted to get into too much trouble. One day he decided to go exploring in the woods near his house.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0348.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0349",
+    "text": "Once there was a gifted little girl named Gina. She was only three years old, but she was very special. Everywhere she went, people stopped to admire her.\n\nOne day, Gina and her family went to the woods.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0349.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0350",
+    "text": "Mummy and Daddy took baby to have a bath. Baby smiled and splashed. Mummy warned baby that the bath water was dangerous and to be careful.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0350.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0351",
+    "text": "Once upon a time there was a little girl who loved to drink milk. She thought it was the best thing ever! One day she was walking around looking for something special. After a while she came across a bottle of luxury milk.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0351.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0352",
+    "text": "Teddy was getting ready to sail. He put on his puffy yellow jacket and tied his shoes. Teddy felt so excited.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0352.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0353",
+    "text": "Once, there was a girl who wanted to write a story. She thought and thought about what she could write about. She felt it was too boring to just write about trees and flowers.\n\nSuddenly, an idea came to her.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0353.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0354",
+    "text": "Once there was a man walking down the street. He had a very hard frown on his face. He was very sad about something.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0354.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0355",
+    "text": "Once upon a time, there was a little chicken. The chicken was very high. It stood on top of a hill and could see the whole wide world.\n\nThe chicken was so happy.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0355.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0356",
+    "text": "Once upon a time there was a little girl who liked to play outside. One day, as she was playing, she saw a stranger. The little girl was scared and wanted to get away, so she started hurrying back to her house.\n\nWhen she got there, she felt safe.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0356.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0357",
+    "text": "One day, Tommy's mum asked him to collect a task. Tommy was a brilliant three-year-old and he was excited to do the task.\n\nHe put on his shoes and went outside. He looked around the garden to see what he had to collect.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0357.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0358",
+    "text": "Once upon a time there was a mill. It was an old and organized mill. Inside the mill you could find a lot of things that belonged to the mill.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0358.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0359",
+    "text": "One day, a little girl was running fast through the park. Her feet felt light and she had a big smile on her face. Suddenly, she tripped and dropped to the ground.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0359.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0360",
+    "text": "One day, a little boy named Jack was playing in his room. He decided to go and sit on his favourite chest. When he sat down, he noticed something unusual.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0360.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0361",
+    "text": "Once upon a time, there was a little girl. She was very happy and excited, but she was feeling dizzy. She decided to join a game, but she didn't know what to do.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0361.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0362",
+    "text": "Jimmy was playing with his truck in the backyard. He was having a lot of fun, pushing it around and making engine noises. But then he started to feel tired and he yawned.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0362.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0363",
+    "text": "Once upon a time there was a little girl named Sarah. She loved to explore and play. One day, Sarah went on an adventure.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0363.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0364",
+    "text": "John was playing in the garden when he heard the birds singing. He looked up and saw a pretty sunset coming. The sky was dark with pink and orange colors.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0364.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0365",
+    "text": "A little boy named John was walking down a street one day. He saw a big barrel near the side of the street. He wondered what was inside the barrel.\n\nJohn peeked inside and discovered that it was full of sour fruit! He was so excited to find the barrel.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0365.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0366",
+    "text": "Once there was a nosy little plant. She wanted to explore the world. So, one day, she was in a rush to get out of her pot.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0366.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0367",
+    "text": "Once upon a time a wise owl had to deal with a problem. Everywhere he looked, things seemed to be breaking. He wanted to find a solution to make all the broken things work again.\n\nHe thought and thought but he could not come up with a plan.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0367.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0368",
+    "text": "Once upon a time there was a lucky thumb. Every day it would go out and explore the world around it. One day it found a pool of water so it decided to soak in it.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0368.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0369",
+    "text": "Once upon a time, there was a little girl called Sarah. She was three years old and very curious. One day, Sarah decided to go for a walk outside.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0369.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0370",
+    "text": "It was time to celebrate! The family was so excited as they got on the subway. It felt like they were going to a distant place. As they went on the subway, everyone laughed and talked about all the fun they would have.\n\nWhen they arrived at their destination, their eyes lit up.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0370.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0371",
+    "text": "Once there was a wise old man. He was very clever, but he had a mysterious secret. Every day he would go out and fold a big blanket.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0371.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0372",
+    "text": "Once upon a time, there was a boy named Pete. He was very little, only three years old! While playing outside, Pete got very sleepy. So, he settled in the grass and decided to take a nap.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0372.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0373",
+    "text": "Once, there was a very important bell. Everyday, the bell would ring loudly. Everyone in the village heard the bell.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0373.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0374",
+    "text": "Once upon a time, there was a wide meadow. All different animals lived in the meadow together. They all ate the same food, played together and had peace.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0374.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0375",
+    "text": "Once upon a time, there was a young boy who loved blueberries. One day, he saw a big blueberry bush and he ran over to it. He was so excited! He grabbed a big plump blueberry and he bit into it.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0375.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0376",
+    "text": "Once upon a time, there was a violin. It was special and it was magical, but the violin was all alone. One day, the violin was feeling very scared and lonely.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0376.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0377",
+    "text": "Once upon a time, there was a boy who had a round, soft rug. He loved to play on it. One day he wanted to do something different.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0377.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0378",
+    "text": "Once upon a time there was a girl called Sarah. She loved to imagine things. One day she imagined that she was standing in front of a big plate of spaghetti.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0378.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0379",
+    "text": "One day, 2 friends were playing near a line. The line was very long and tough. The friends were smiling and having fun.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0379.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0380",
+    "text": "Once upon a time, there were two bears who lived in a big house. They loved to tell stories to each other. One day, the two bears decided to go outside and explore.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0380.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0381",
+    "text": "Jimmy was walking through the park when suddenly he saw a beautiful rainbow. He had never seen one before. But then he noticed someone was frowning at the rainbow.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0381.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0382",
+    "text": "Once upon a time, there was a little boy who found a shiny coin while walking in the park. He was so excited to have found the coin that he ran home to tell his mum. He showed her the coin and it made her smile.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0382.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0383",
+    "text": "Once upon a time there was a mechanic. He had a long day because he had to fix a lot of cars. He was so tired, he decided to take a break.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0383.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0384",
+    "text": "Once upon a time, there was a mole who wanted to have lots of friends. He searched everywhere, but no one seemed to value him. One day, he found a big and sleepy tree in a meadow.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0384.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0385",
+    "text": "Once upon a time, there was a litttle girl. She had black hair and black eyes and she was very brave. She wanted to explore the world.\n\nOne day she decided to find a well in the forest.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0385.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0386",
+    "text": "Once upon a time, there was a sweet little girl called Rachel. She liked to spin around in circles very fast. Rachel liked to spin around when she was learning to walk.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0386.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0387",
+    "text": "At first, it was sunny outside. Then, the sky became serious and it started to rain. \n\nMama and Lily were very sad.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0387.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0388",
+    "text": "Once upon a time there was a little girl who lived in a big world. She spoke and smiled at everyone she saw.\n\nBut the other people in the world didn't talk to her. They only talked to each other.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0388.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0389",
+    "text": "Once there was a deaf girl who liked to have fun. On every holiday, she liked to fold just about everything she saw. She folded all of her blankets, her pillows, her stuffed animals and even her clothes! \n\nOne day, she went on a vacation with her family.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0389.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0390",
+    "text": "One day, a small girl was walking through her garden. She saw a white oak tree standing tall and strong in the middle. She stopped and looked up at it in wonder.\n\nThe girl wanted to climb it so she carefully scaled the tree and soon found herself perched in a seat high up in the white oak.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0390.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0391",
+    "text": "The two friends, Lucy and Max, were very curious. They wanted to find out what was in the big jar. \n\nLucy peeked in and said, \"It looks like sauce!\" Max was excited and he wanted to try it.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0391.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0392",
+    "text": "Once there was a tall boy. He was trying to decide what he should do. He thought and thought but he just couldn't make up his mind.\n\nSuddenly he had an idea.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0392.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0393",
+    "text": "Molly was very excited because today was the day of her 3rd birthday party. She put on her favourite dress and ran downstairs to see what was ready. When she got there, she saw that her mum had made all her favourite foods, including a big cake with her photo on top.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0393.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0394",
+    "text": "Once there was an enormous hook. The hook was so big it seemed to reach up to the sky. Every day the hook stayed in the same place.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0394.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0395",
+    "text": "Once upon a time, there was an ancient land. It had been kept secret and no one knew what was inside.\n\nOne day, a brave child called Joey decided to explore the land. She packed her bag then went on an adventure.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0395.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0396",
+    "text": "Once upon a time, there was a very envious elephant. He wanted to have the strongest trunk and biggest ears in the entire jungle. He tried to become stronger but he kept losing to other animals.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0396.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0397",
+    "text": "Once there was a dependable horse named Jack. He was always so happy to run and play with his friends. One day, he wanted to go on an adventure, so he asked his friend George to come with him.\n\nThey ran and ran, until they found a cardboard box.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0397.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0398",
+    "text": "Once there was a bug who liked to twist. Every day the bug would twist and twist, until one day something bad happened. The bug twisted a little too much and he got too tired.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0398.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0399",
+    "text": "Once upon a time there was an original earth full of bows. No one knew how or why! Every day, people would find peculiar bows that seemed to sprout out of the earth. \n\nThe bows seemed to have special powers.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0399.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0400",
+    "text": "Once upon a time, there was a young girl called Molly. Molly was very brave, so one day she decided she wanted to explore a cave. \n\nMolly found the cave and she yawned as she looked inside.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0400.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0401",
+    "text": "Once upon a time there was a creative little girl. She loved exploring and tasting new things. One day, when she was exploring in the garden, she stumbled upon a lung.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0401.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0402",
+    "text": "Once upon a time, there was a girl named Lily. She was three years old.\n\nOne day, Lily got a dictionary from the library. She was so excited to see what was inside! She opened it up and started reading.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0402.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0403",
+    "text": "Jane had a zebra. She loved it very much. But one day, the zebra had to leave.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0403.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0404",
+    "text": "Grandma loves her grandbaby very much. She always finds new ways to show her love. One day, Grandma decided to write a beautiful poem for grandbaby.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0404.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0405",
+    "text": "Henry was a cheerful little boy. He loved to explore and learn new things. One day he was exploring with his Mom and Dad.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0405.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0406",
+    "text": "Once upon a time, there was a little girl named Mia. Mia was three years old and she loved to be independent. One day Mia was feeling curious and she wanted to explore.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0406.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0407",
+    "text": "Once upon a time, there was a girl who had a goal. She wanted to go to the top of the mountain and see what was there. But the mountain was very high, and the path was long.\n\nThe girl began to climb and soon the sun went down.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0407.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0408",
+    "text": "Jimmy was an really busy boy. Every day he was looking for adventure.\nOne day, he was outside playing when a strange big man appeared from behind a tree. He was bald, with a big red nose and a shiny nail on his finger.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0408.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0409",
+    "text": "The little boy noticed a furry pig walking around his backyard. It was so small and cute. He watched with glee as the pig seemed to be looking for something.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0409.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0410",
+    "text": "Once upon a time, there was an eraser that wanted to bake something delicious. It asked all of its friends if they wanted to help make something. Everyone said yes and they all hopped in a big oven.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0410.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0411",
+    "text": "Once upon a time, there was a girl named Ali. She was just 3 years old.\n\nOne day, Ali and her mum went to the shops. Ali wanted a new jacket.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0411.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0412",
+    "text": "Once upon a time there was a messy room. Toys were all over the floor and the bed was a mess.\n\nA young boy named Timmy wanted to tidy up the room. He began to pick up the toys and put them on the shelves.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0412.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0413",
+    "text": "Once there was a little boy and he wanted to learn. He went to the chest every day and found something new to learn. One day he found a lesson that was very harsh.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0413.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0414",
+    "text": "Once upon a time, there was a rich fireman. He was strong and brave. One day he had to save a cat from a high tree.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0414.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0415",
+    "text": "Once upon a time, there was a naughty little boat. It loved to sail around, but it didn't always listen to its captain. One day, it sailed too far away, and it couldn't get home on its own.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0415.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0416",
+    "text": "One day, Daisy went to the subway with her mom and dad. She saw a lot of people running around. Daisy asked why they were running.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0416.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0417",
+    "text": "Once upon a time, there was a beautiful horse called Daisy. Daisy lived in a stable and loved eating hay. She was very fragile, and not very strong, but she was extremely kind to everyone she met.\n\nOne day, Daisy was feeling very lonely, and wished she had someone to share the hay with.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0417.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0418",
+    "text": "One day, Jack and Jane went to the theater. They were excited and couldnâ€™t wait to have fun.\n\nWhen they got to the theater, they saw different people. Some were big, some were small.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0418.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0419",
+    "text": "Once upon a time there was a guard. He was very nervous because he had to stay awake all night. He was watching over something special.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0419.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0420",
+    "text": "Lucy was very competitive. She wanted to be the best at everything she did. So when the bell rang to start the race, she was determined to win.\n\nLucy ran as fast as she could.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0420.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0421",
+    "text": "Once upon a time there was a bald man who lived all alone in a cave. He was very lonely and wanted a friend. One day, he found a mouse that was all alone too, so he decided to make it his friend.\n\nThe bald man would feed the mouse and talk to it every day.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0421.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0422",
+    "text": "Once upon a time there was a boy called Sam. Sam loved chocolate. He always looked for it in the cupboard, but his mum kept it hidden.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0422.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0423",
+    "text": "Simon was a small boy. He looked up at the sky. He admired the roof of the house.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0423.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0424",
+    "text": "Once upon a time, there was a horse. He was very heavy. He liked to travel far and wide.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0424.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0425",
+    "text": "Once upon a time there was a beautiful pool. It was so big and so deep and so blue. One day, a little boy named Jack was playing by the pool.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0425.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0426",
+    "text": "Once upon a time there lived a little girl named Lucy. She loved animals, and one day she saw a little mother bird in her garden. The bird was holding an egg in her beak, and Lucy wanted to help.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0426.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0427",
+    "text": "Once upon a time, there was a boy called George. He was three years old and one day he wanted to make a drink. He went to the kitchen and he saw his mom's big, messy freezer.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0427.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0428",
+    "text": "Once there was a boy named Bob. He loved to look at the big bright blue sky. One day, he decided to go for a walk in the park.\n\nHe looked around and noticed a pond.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0428.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0429",
+    "text": "Once upon a time, there was a red rhinoceros. He was a big, strong rhinoceros. Every day he would run around and play in the grass.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0429.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0430",
+    "text": "One day, Jack went fishing with his dad. Jack loved to go fishing. His dad gave him a gentle fishing rod and told him to stir the water with it.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0430.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0431",
+    "text": "Once upon a time there was a little octopus. Every day he would bounce around the ocean and have lots of fun. One day, he decided to bounce up higher and higher until he reached the surface of the water.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0431.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0432",
+    "text": "Polly had been playing in the garden all day and it was very late. She was so tired she could barely keep her eyes open. Suddenly she heard a noise and jumped with surprise â€“ it was her granddad! She smiled at him and ran to him with open arms.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0432.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0433",
+    "text": "Once upon a time, there was a little boy who was very sick. He had a bad cough and felt so tired all the time. He was so sad.\n\nOne day, his mommy took him for a special visit to the doctor.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0433.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0434",
+    "text": "Once upon a time, there was a little girl who loved to dress. Each morning, she chose the prettiest dress for that day. Today, she chose a dress with lots of pink and purple stripes.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0434.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0435",
+    "text": "Once upon a time there was a little girl. Her name was Millie. She was 3-years-old and very curious.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0435.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0436",
+    "text": "One cold morning, Mommy saw John. She offered him a present. It was a shiny new bicycle and it was all for him.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0436.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0437",
+    "text": "Once upon a time, there was a little girl named Grace. Grace liked to play outside in the sunshine. One day, Grace walked to the market to get a melon.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0437.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0438",
+    "text": "One day it was raining. The rain was cold and wet. A little girl named Grace was looking out of a window.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0438.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0439",
+    "text": "Once there was a thin girl named Claire. Claire always wanted to feel relaxed, but couldn't find a way. She was too weighed down by her worries.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0439.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0440",
+    "text": "Once upon a time there was a boy. He liked to watch his toys. One day, he saw a strange figure.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0440.wav",
+    "has_audio": true,
+    "has_embedding": true
+  },
+  {
+    "id": "literary_0441",
+    "text": "Once there was a little puppy named Spot. He lived in the city and was very lonely. He wanted to find a friend to play with, but he didnâ€™t know where to go.",
+    "source": "tinystories",
+    "emotion": "inferred",
+    "audio_path": "audio/literary_0441.wav",
+    "has_audio": true,
+    "has_embedding": true
+  }
+]
