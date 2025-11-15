@@ -21,6 +21,7 @@ class EmotionAugmentedDataset(Dataset):
         tokenizer,
         max_length: int = 512,
         use_emotion: bool = True,
+        embedding_type: str = "wavlm",  # "wavlm", "acoustic", or "fusion"
     ):
         """
         Initialize dataset.
@@ -30,23 +31,42 @@ class EmotionAugmentedDataset(Dataset):
             tokenizer: Tokenizer for the student model
             max_length: Maximum sequence length
             use_emotion: Whether to include emotion embeddings
+            embedding_type: Type of embedding ("wavlm", "acoustic", "fusion")
         """
         self.data_dir = Path(data_dir)
         self.tokenizer = tokenizer
         self.max_length = max_length
         self.use_emotion = use_emotion
+        self.embedding_type = embedding_type
 
         # Load metadata
         metadata_path = self.data_dir / "metadata.json"
         with open(metadata_path, 'r', encoding='utf-8') as f:
             self.samples = json.load(f)
 
-        # Load emotion embeddings
+        # Load emotion embeddings based on type
         if use_emotion:
-            embeddings_path = self.data_dir / "emotion_embeddings.npz"
-            self.emotion_embeddings = np.load(embeddings_path)
+            if embedding_type == "wavlm":
+                embeddings_path = self.data_dir / "emotion_embeddings.npz"
+                self.emotion_embeddings = np.load(embeddings_path)
+                self.acoustic_embeddings = None
+                print(f"Using WavLM embeddings (256D)")
+            elif embedding_type == "acoustic":
+                embeddings_path = self.data_dir / "acoustic_embeddings.npz"
+                self.emotion_embeddings = np.load(embeddings_path)
+                self.acoustic_embeddings = None
+                print(f"Using acoustic embeddings (46D)")
+            elif embedding_type == "fusion":
+                wavlm_path = self.data_dir / "emotion_embeddings.npz"
+                acoustic_path = self.data_dir / "acoustic_embeddings.npz"
+                self.emotion_embeddings = np.load(wavlm_path)
+                self.acoustic_embeddings = np.load(acoustic_path)
+                print(f"Using fused embeddings (WavLM 256D + Acoustic 46D = 302D)")
+            else:
+                raise ValueError(f"Unknown embedding_type: {embedding_type}")
         else:
             self.emotion_embeddings = None
+            self.acoustic_embeddings = None
 
         print(f"Loaded {len(self.samples)} samples from {data_dir}")
 
@@ -106,20 +126,56 @@ class EmotionAugmentedDataset(Dataset):
         # Add emotion embedding if available
         if self.use_emotion and sample.get("has_embedding", False):
             sample_id = sample["id"]
-            if sample_id in self.emotion_embeddings:
-                emotion_emb = self.emotion_embeddings[sample_id]
-                # Convert to tensor and ensure correct shape
-                if isinstance(emotion_emb, list):
-                    emotion_emb = np.array(emotion_emb)
-                if len(emotion_emb.shape) == 2:
-                    emotion_emb = emotion_emb[0]  # Remove batch dimension if present
-                result["emotion_embedding"] = torch.tensor(emotion_emb, dtype=torch.float32)
+
+            if self.embedding_type == "fusion":
+                # Concatenate WavLM + Acoustic embeddings
+                wavlm_emb = None
+                acoustic_emb = None
+
+                if sample_id in self.emotion_embeddings:
+                    wavlm_emb = self.emotion_embeddings[sample_id]
+                    if isinstance(wavlm_emb, list):
+                        wavlm_emb = np.array(wavlm_emb)
+                    if len(wavlm_emb.shape) == 2:
+                        wavlm_emb = wavlm_emb[0]
+                else:
+                    wavlm_emb = np.zeros(256, dtype=np.float32)
+
+                if sample_id in self.acoustic_embeddings:
+                    acoustic_emb = self.acoustic_embeddings[sample_id]
+                    if isinstance(acoustic_emb, list):
+                        acoustic_emb = np.array(acoustic_emb)
+                    if len(acoustic_emb.shape) == 2:
+                        acoustic_emb = acoustic_emb[0]
+                else:
+                    acoustic_emb = np.zeros(46, dtype=np.float32)
+
+                # Concatenate
+                fused_emb = np.concatenate([wavlm_emb, acoustic_emb])
+                result["emotion_embedding"] = torch.tensor(fused_emb, dtype=torch.float32)
             else:
-                # Use zero embedding as fallback
-                result["emotion_embedding"] = torch.zeros(256, dtype=torch.float32)
+                # WavLM or Acoustic only
+                if sample_id in self.emotion_embeddings:
+                    emotion_emb = self.emotion_embeddings[sample_id]
+                    # Convert to tensor and ensure correct shape
+                    if isinstance(emotion_emb, list):
+                        emotion_emb = np.array(emotion_emb)
+                    if len(emotion_emb.shape) == 2:
+                        emotion_emb = emotion_emb[0]  # Remove batch dimension if present
+                    result["emotion_embedding"] = torch.tensor(emotion_emb, dtype=torch.float32)
+                else:
+                    # Use zero embedding as fallback
+                    emb_dim = 256 if self.embedding_type == "wavlm" else 46
+                    result["emotion_embedding"] = torch.zeros(emb_dim, dtype=torch.float32)
         elif self.use_emotion:
             # Use zero embedding as fallback
-            result["emotion_embedding"] = torch.zeros(256, dtype=torch.float32)
+            if self.embedding_type == "fusion":
+                emb_dim = 302  # 256 + 46
+            elif self.embedding_type == "wavlm":
+                emb_dim = 256
+            else:  # acoustic
+                emb_dim = 46
+            result["emotion_embedding"] = torch.zeros(emb_dim, dtype=torch.float32)
 
         return result
 

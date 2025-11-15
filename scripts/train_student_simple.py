@@ -126,8 +126,11 @@ def main():
                         help="Directory containing training data")
     parser.add_argument("--model_name", type=str, default="Qwen/Qwen2.5-1.5B",
                         help="Base model name or path")
-    parser.add_argument("--emotion_dim", type=int, default=256,
-                        help="Dimension of emotion embeddings")
+    parser.add_argument("--emotion_dim", type=int, default=None,
+                        help="Dimension of emotion embeddings (auto-set based on embedding_type if not specified)")
+    parser.add_argument("--embedding_type", type=str, default="wavlm",
+                        choices=["wavlm", "acoustic", "fusion"],
+                        help="Type of embedding: wavlm (256D), acoustic (46D), fusion (302D)")
     parser.add_argument("--integration_mode", type=str, default="concat",
                         choices=["concat", "attention"],
                         help="Emotion integration mode")
@@ -148,6 +151,15 @@ def main():
 
     args = parser.parse_args()
 
+    # Auto-set emotion_dim based on embedding_type if not specified
+    if args.emotion_dim is None:
+        if args.embedding_type == "wavlm":
+            args.emotion_dim = 256
+        elif args.embedding_type == "acoustic":
+            args.emotion_dim = 46
+        elif args.embedding_type == "fusion":
+            args.emotion_dim = 302
+
     # Set device
     device = args.device or ("cuda" if torch.cuda.is_available() else "cpu")
     print(f"Using device: {device}")
@@ -162,6 +174,8 @@ def main():
     print(f"Base model: {args.model_name}")
     print(f"Integration mode: {args.integration_mode}")
     print(f"Use emotion: {args.use_emotion}")
+    if args.use_emotion:
+        print(f"Embedding type: {args.embedding_type} ({args.emotion_dim}D)")
     print(f"Batch size: {args.batch_size}")
     print(f"Epochs: {args.num_epochs}")
     print(f"Learning rate: {args.learning_rate}")
@@ -180,7 +194,8 @@ def main():
         data_dir=args.data_dir,
         tokenizer=tokenizer,
         max_length=args.max_length,
-        use_emotion=args.use_emotion
+        use_emotion=args.use_emotion,
+        embedding_type=args.embedding_type if args.use_emotion else "wavlm"
     )
 
     # Split into train/val (80/20)
