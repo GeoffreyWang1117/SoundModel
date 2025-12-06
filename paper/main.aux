@@ -1,0 +1,127 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand\HyField@AuxAddToFields[1]{}
+\providecommand\HyField@AuxAddToCoFields[2]{}
+\citation{scherer2003vocal}
+\citation{brown2020language,touvron2023llama}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{1}{section.1}\protected@file@percent }
+\newlabel{sec:introduction}{{1}{1}{Introduction}{section.1}{}}
+\newlabel{sec:introduction@cref}{{[section][1][]1}{[1][1][]1}}
+\citation{driess2023palm,alayrac2022flamingo}
+\citation{shen2023hugginggpt}
+\citation{moritz2023speech}
+\citation{chen2022wavlm}
+\citation{eyben2010opensmile}
+\citation{chen2022wavlm,pepino2021emotion}
+\citation{chen2022wavlm}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Related Work}{2}{section.2}\protected@file@percent }
+\newlabel{sec:related}{{2}{2}{Related Work}{section.2}{}}
+\newlabel{sec:related@cref}{{[section][2][]2}{[1][2][]2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Emotion Recognition from Speech}{2}{subsection.2.1}\protected@file@percent }
+\citation{driess2023palm,alayrac2022flamingo,li2023blip}
+\citation{driess2023palm}
+\citation{alayrac2022flamingo}
+\citation{hinton2015distilling}
+\citation{sanh2019distilbert}
+\citation{saon2013speaker}
+\citation{snyder2018x}
+\citation{zen2013statistical}
+\citation{dehak2011front}
+\citation{casanova2022xtts}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Multimodal Large Language Models}{3}{subsection.2.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}Knowledge Distillation for LLMs}{3}{subsection.2.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.4}Cross-Speaker Generalization}{3}{subsection.2.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3}Method}{3}{section.3}\protected@file@percent }
+\newlabel{sec:method}{{3}{3}{Method}{section.3}{}}
+\newlabel{sec:method@cref}{{[section][3][]3}{[1][3][]3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Data Generation Pipeline}{3}{subsection.3.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces System architecture for audio-augmented LLM training. The pipeline consists of three stages: (1) Data Generation using GPT-4 teacher and XTTS v2 TTS, (2) Feature Extraction using either acoustic features (46D) or WavLM embeddings (256D), and (3) Student Training with emotion projection and LoRA-adapted Qwen2.5-1.5B. Key findings highlight that compact acoustic features outperform deep embeddings for in-domain tasks, but cross-speaker generalization remains a critical challenge (38.5× performance degradation).}}{4}{figure.caption.1}\protected@file@percent }
+\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+\newlabel{fig:architecture}{{1}{4}{System architecture for audio-augmented LLM training. The pipeline consists of three stages: (1) Data Generation using GPT-4 teacher and XTTS v2 TTS, (2) Feature Extraction using either acoustic features (46D) or WavLM embeddings (256D), and (3) Student Training with emotion projection and LoRA-adapted Qwen2.5-1.5B. Key findings highlight that compact acoustic features outperform deep embeddings for in-domain tasks, but cross-speaker generalization remains a critical challenge (38.5× performance degradation)}{figure.caption.1}{}}
+\newlabel{fig:architecture@cref}{{[figure][1][]1}{[1][3][]4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Acoustic Feature Extraction}{4}{subsection.3.2}\protected@file@percent }
+\citation{chen2022wavlm}
+\citation{qwen2023}
+\citation{hu2021lora}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Student Model Architecture}{5}{subsection.3.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}Training Objective}{5}{subsection.3.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4}Experimental Setup}{6}{section.4}\protected@file@percent }
+\newlabel{sec:experiments}{{4}{6}{Experimental Setup}{section.4}{}}
+\newlabel{sec:experiments@cref}{{[section][4][]4}{[1][5][]6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Dataset}{6}{subsection.4.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Implementation Details}{6}{subsection.4.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Evaluation Metrics}{6}{subsection.4.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4}Experimental Design}{7}{subsection.4.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5}Results}{7}{section.5}\protected@file@percent }
+\newlabel{sec:results}{{5}{7}{Results}{section.5}{}}
+\newlabel{sec:results@cref}{{[section][5][]5}{[1][7][]7}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}In-Domain Performance (Exp 7)}{7}{subsection.5.1}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Feature representation comparison on in-domain validation.}}{7}{table.caption.2}\protected@file@percent }
+\newlabel{tab:feature_comparison}{{1}{7}{Feature representation comparison on in-domain validation}{table.caption.2}{}}
+\newlabel{tab:feature_comparison@cref}{{[table][1][]1}{[1][7][]7}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Feature Ablation (Exp 8)}{7}{subsection.5.2}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Ablation study of acoustic feature groups.}}{7}{table.caption.3}\protected@file@percent }
+\newlabel{tab:ablation}{{2}{7}{Ablation study of acoustic feature groups}{table.caption.3}{}}
+\newlabel{tab:ablation@cref}{{[table][2][]2}{[1][7][]7}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.3}Cross-Speaker Generalization Challenge (Exp 9-10)}{8}{subsection.5.3}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Cross-speaker generalization performance.}}{8}{table.caption.4}\protected@file@percent }
+\newlabel{tab:cross_speaker}{{3}{8}{Cross-speaker generalization performance}{table.caption.4}{}}
+\newlabel{tab:cross_speaker@cref}{{[table][3][]3}{[1][8][]8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.4}Multi-Speaker Training (Exp 11)}{8}{subsection.5.4}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces Multi-speaker training results.}}{8}{table.caption.5}\protected@file@percent }
+\newlabel{tab:multispeaker}{{4}{8}{Multi-speaker training results}{table.caption.5}{}}
+\newlabel{tab:multispeaker@cref}{{[table][4][]4}{[1][8][]8}}
+\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces The Speaker-Performance Paradox: Better same-speaker performance leads to worse cross-speaker generalization.}}{9}{table.caption.6}\protected@file@percent }
+\newlabel{tab:speaker_paradox}{{5}{9}{The Speaker-Performance Paradox: Better same-speaker performance leads to worse cross-speaker generalization}{table.caption.6}{}}
+\newlabel{tab:speaker_paradox@cref}{{[table][5][]5}{[1][8][]9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.5}The Speaker-Performance Paradox (Exp 13)}{9}{subsection.5.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.6}Speaker Adaptive Normalization Failure (Exp 15)}{9}{subsection.5.6}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {6}{\ignorespaces Speaker Adaptive Normalization (SAN) results demonstrate that speaker-invariance ≠ cross-speaker generalization.}}{9}{table.caption.7}\protected@file@percent }
+\newlabel{tab:san_failure}{{6}{9}{Speaker Adaptive Normalization (SAN) results demonstrate that speaker-invariance ≠ cross-speaker generalization}{table.caption.7}{}}
+\newlabel{tab:san_failure@cref}{{[table][6][]6}{[1][9][]9}}
+\citation{chen2022wavlm}
+\citation{eyben2010opensmile}
+\citation{peterson1952control}
+\@writefile{toc}{\contentsline {section}{\numberline {6}Discussion}{10}{section.6}\protected@file@percent }
+\newlabel{sec:discussion}{{6}{10}{Discussion}{section.6}{}}
+\newlabel{sec:discussion@cref}{{[section][6][]6}{[1][10][]10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.1}Why Acoustic Features Outperform Deep Embeddings}{10}{subsection.6.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.2}The Cross-Speaker Generalization Problem}{10}{subsection.6.2}\protected@file@percent }
+\citation{busso2008iemocap}
+\citation{lotfian2019building}
+\citation{vaswani2017attention}
+\citation{ganin2016domain}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.3}Validation Setup Matters}{11}{subsection.6.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.4}Limitations and Future Work}{11}{subsection.6.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {7}Conclusion}{11}{section.7}\protected@file@percent }
+\newlabel{sec:conclusion}{{7}{11}{Conclusion}{section.7}{}}
+\newlabel{sec:conclusion@cref}{{[section][7][]7}{[1][11][]11}}
+\bibstyle{plain}
+\bibdata{references}
+\bibcite{alayrac2022flamingo}{{1}{}{{}}{{}}}
+\bibcite{qwen2023}{{2}{}{{}}{{}}}
+\bibcite{brown2020language}{{3}{}{{}}{{}}}
+\bibcite{busso2008iemocap}{{4}{}{{}}{{}}}
+\bibcite{casanova2022xtts}{{5}{}{{}}{{}}}
+\bibcite{chen2022wavlm}{{6}{}{{}}{{}}}
+\bibcite{dehak2011front}{{7}{}{{}}{{}}}
+\bibcite{driess2023palm}{{8}{}{{}}{{}}}
+\bibcite{eyben2010opensmile}{{9}{}{{}}{{}}}
+\bibcite{ganin2016domain}{{10}{}{{}}{{}}}
+\bibcite{hinton2015distilling}{{11}{}{{}}{{}}}
+\bibcite{hu2021lora}{{12}{}{{}}{{}}}
+\bibcite{li2023blip}{{13}{}{{}}{{}}}
+\bibcite{lotfian2019building}{{14}{}{{}}{{}}}
+\bibcite{moritz2023speech}{{15}{}{{}}{{}}}
+\bibcite{pepino2021emotion}{{16}{}{{}}{{}}}
+\bibcite{peterson1952control}{{17}{}{{}}{{}}}
+\bibcite{sanh2019distilbert}{{18}{}{{}}{{}}}
+\bibcite{saon2013speaker}{{19}{}{{}}{{}}}
+\bibcite{scherer2003vocal}{{20}{}{{}}{{}}}
+\bibcite{shen2023hugginggpt}{{21}{}{{}}{{}}}
+\bibcite{snyder2018x}{{22}{}{{}}{{}}}
+\bibcite{touvron2023llama}{{23}{}{{}}{{}}}
+\bibcite{vaswani2017attention}{{24}{}{{}}{{}}}
+\bibcite{zen2013statistical}{{25}{}{{}}{{}}}
+\providecommand\NAT@force@numbers{}\NAT@force@numbers
+\gdef \@abspage@last{14}

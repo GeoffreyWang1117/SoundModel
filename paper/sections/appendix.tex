@@ -1,0 +1,57 @@
+% Appendix
+
+\subsection{Acoustic Feature Details}
+
+\subsubsection{Complete Feature List (46D)}
+
+\textbf{Prosodic Features (13D):}
+\begin{enumerate}
+    \item pitch\_mean: Average fundamental frequency (F0)
+    \item pitch\_std: Standard deviation of F0
+    \item pitch\_min: Minimum F0
+    \item pitch\_max: Maximum F0
+    \item pitch\_range: pitch\_max - pitch\_min
+    \item pitch\_slope: Linear regression slope of F0 contour
+    \item energy\_mean: Average RMS energy
+    \item energy\_std: Energy standard deviation
+    \item energy\_max: Peak energy
+    \item duration: Audio duration in seconds
+    \item speech\_rate: Voiced frames per second
+    \item zcr\_mean: Zero-crossing rate mean
+    \item zcr\_std: Zero-crossing rate std
+\end{enumerate}
+
+\textbf{Spectral Features (30D):}
+\begin{enumerate}
+    \setcounter{enumi}{13}
+    \item mfcc\_1 to mfcc\_13: Mel-frequency cepstral coefficients
+    \item delta\_mfcc\_1 to delta\_mfcc\_13: First-order derivatives
+    \item spectral\_centroid: Center of mass of spectrum
+    \item spectral\_rolloff: 85\% energy frequency threshold
+    \item spectral\_flux: Frame-to-frame spectral change
+    \item spectral\_bandwidth: Weighted frequency spread
+\end{enumerate}
+
+\textbf{Formant Features (3D):}
+\begin{enumerate}
+    \setcounter{enumi}{43}
+    \item formant\_f1: First formant frequency
+    \item formant\_f2: Second formant frequency
+    \item formant\_f3: Third formant frequency
+\end{enumerate}
+
+\subsection{Hyperparameter Sensitivity}
+
+% TODO: Add hyperparameter ablation results
+
+\subsection{Additional Baseline Comparisons}
+
+% TODO: Compare with Wav2Vec2, HuBERT, etc.
+
+\subsection{Training Curves}
+
+% TODO: Add training/validation loss curves
+
+\subsection{Sample Outputs}
+
+% TODO: Show example model outputs with/without emotion

@@ -129,8 +129,8 @@ def main():
     parser.add_argument("--emotion_dim", type=int, default=None,
                         help="Dimension of emotion embeddings (auto-set based on embedding_type if not specified)")
     parser.add_argument("--embedding_type", type=str, default="wavlm",
-                        choices=["wavlm", "acoustic", "fusion"],
-                        help="Type of embedding: wavlm (256D), acoustic (46D), fusion (302D)")
+                        choices=["wavlm", "acoustic", "relative", "fusion"],
+                        help="Type of embedding: wavlm (256D), acoustic (46D), relative (44D), fusion (302D)")
     parser.add_argument("--integration_mode", type=str, default="concat",
                         choices=["concat", "attention"],
                         help="Emotion integration mode")
@@ -157,6 +157,8 @@ def main():
             args.emotion_dim = 256
         elif args.embedding_type == "acoustic":
             args.emotion_dim = 46
+        elif args.embedding_type == "relative":
+            args.emotion_dim = 44
         elif args.embedding_type == "fusion":
             args.emotion_dim = 302
 

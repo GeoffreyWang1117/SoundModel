@@ -1,0 +1,175 @@
+/home/coder-gw/miniconda3/envs/audio_llm/lib/python3.10/site-packages/librosa/core/intervals.py:8: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import resource_filename
+/home/coder-gw/miniconda3/envs/audio_llm/lib/python3.10/site-packages/TTS/api.py:70: UserWarning: `gpu` will be deprecated. Please use `tts.to(device)` instead.
+  warnings.warn("`gpu` will be deprecated. Please use `tts.to(device)` instead.")
+/home/coder-gw/miniconda3/envs/audio_llm/lib/python3.10/site-packages/TTS/tts/layers/xtts/xtts_manager.py:5: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  self.speakers = torch.load(speaker_file_path)
+/home/coder-gw/miniconda3/envs/audio_llm/lib/python3.10/site-packages/TTS/utils/io.py:54: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  return torch.load(f, map_location=map_location, **kwargs)
+GPT2InferenceModel has generative capabilities, as `prepare_inputs_for_generation` is explicitly overwritten. However, it doesn't directly inherit from `GenerationMixin`. From 👉v4.50👈 onwards, `PreTrainedModel` will NOT inherit from `GenerationMixin`, and this model will lose the ability to call `generate` and other related functions.
+  - If you're using `trust_remote_code=True`, you can get rid of this warning by loading the model with an auto class. See https://huggingface.co/docs/transformers/en/model_doc/auto#auto-classes
+  - If you are the owner of the model architecture code, please modify your model class such that it inherits from `GenerationMixin` (after `PreTrainedModel`, otherwise you'll get an exception).
+  - If you are not the owner of the model architecture class, please contact the model code owner to update it.
+================================================================================
+Multi-Speaker Dataset Generation
+================================================================================
+Speakers: Claribel Dervla, Andrew Chipper
+Samples per speaker: 10
+Total samples: 20
+
+Initializing TTS engine...
+ > tts_models/multilingual/multi-dataset/xtts_v2 is already downloaded.
+ > Using model: xtts
+XTTS model loaded on cuda
+✓ TTS engine ready
+
+Initializing emotion encoder...
+✓ Emotion encoder ready
+
+================================================================================
+Processing speaker: Claribel Dervla
+================================================================================
+
+Generating 10 synthetic samples...
+
+Generating audio with speaker: Claribel Dervla
+Synthesizing:   0%|          | 0/10 [00:00<?, ?it/s]The attention mask is not set and cannot be inferred from input because pad token is same as eos token. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Synthesizing:  10%|█         | 1/10 [00:01<00:12,  1.33s/it]Synthesizing:  20%|██        | 2/10 [00:02<00:08,  1.03s/it]Synthesizing:  30%|███       | 3/10 [00:03<00:06,  1.05it/s]Synthesizing:  40%|████      | 4/10 [00:03<00:05,  1.12it/s]Synthesizing:  50%|█████     | 5/10 [00:04<00:04,  1.20it/s]Synthesizing:  60%|██████    | 6/10 [00:05<00:03,  1.27it/s]Synthesizing:  70%|███████   | 7/10 [00:06<00:02,  1.23it/s]Synthesizing:  80%|████████  | 8/10 [00:06<00:01,  1.20it/s]Synthesizing:  90%|█████████ | 9/10 [00:07<00:00,  1.31it/s]Synthesizing: 100%|██████████| 10/10 [00:08<00:00,  1.32it/s]Synthesizing: 100%|██████████| 10/10 [00:08<00:00,  1.20it/s]
+ > Text splitted to sentences.
+['Congratulations!', "That's absolutely wonderful news!", "I'm so happy for you!"]
+ > Processing time: 1.3190104961395264
+ > Real-time factor: 0.18407709772073771
+
+⚠ Failed to process sample claribel_dervla_synthetic_00000: 'EmotionEncoder' object has no attribute 'encode'
+ > Text splitted to sentences.
+['That must be really hard.', "It's completely normal to feel that way."]
+ > Processing time: 0.8073084354400635
+ > Real-time factor: 0.15871211663207382
+
+⚠ Failed to process sample claribel_dervla_synthetic_00001: 'EmotionEncoder' object has no attribute 'encode'
+ > Text splitted to sentences.
+['I hear your frustration.', "Let's think about how to address this."]
+ > Processing time: 0.8419299125671387
+ > Real-time factor: 0.16514156856768972
+
+⚠ Failed to process sample claribel_dervla_synthetic_00002: 'EmotionEncoder' object has no attribute 'encode'
+ > Text splitted to sentences.
+['I can understand that.', "Let's take it one step at a time."]
+ > Processing time: 0.7936820983886719
+ > Real-time factor: 0.15603325846531932
+
+⚠ Failed to process sample claribel_dervla_synthetic_00003: 'EmotionEncoder' object has no attribute 'encode'
+ > Text splitted to sentences.
+['Wow!', 'What a surprise!', 'Share the details!']
+ > Processing time: 0.7140820026397705
+ > Real-time factor: 0.14364242590686524
+
+⚠ Failed to process sample claribel_dervla_synthetic_00004: 'EmotionEncoder' object has no attribute 'encode'
+ > Text splitted to sentences.
+["It's going well, thanks for asking.", 'How about yours?']
+ > Processing time: 0.6901800632476807
+ > Real-time factor: 0.15395830360362736
+
+⚠ Failed to process sample claribel_dervla_synthetic_00005: 'EmotionEncoder' object has no attribute 'encode'
+ > Text splitted to sentences.
+["That's amazing!", 'You must be thrilled!', 'All your hard work paid off!']
+ > Processing time: 0.8343079090118408
+ > Real-time factor: 0.14281214595788636
+
+⚠ Failed to process sample claribel_dervla_synthetic_00006: 'EmotionEncoder' object has no attribute 'encode'
+ > Text splitted to sentences.
+['I understand.', 'Sometimes life can be overwhelming.']
+ > Processing time: 0.8483433723449707
+ > Real-time factor: 0.15314687058068022
+
+⚠ Failed to process sample claribel_dervla_synthetic_00007: 'EmotionEncoder' object has no attribute 'encode'
+ > Text splitted to sentences.
+['I understand your anger.', "Let's work through this together."]
+ > Processing time: 0.5915300846099854
+ > Real-time factor: 0.1467775293217746
+
+⚠ Failed to process sample claribel_dervla_synthetic_00008: 'EmotionEncoder' object has no attribute 'encode'
+ > Text splitted to sentences.
+["You're stronger than you think.", "We'll figure this out together."]
+ > Processing time: 0.7194411754608154
+ > Real-time factor: 0.15525835733353216
+
+⚠ Failed to process sample claribel_dervla_synthetic_00009: 'EmotionEncoder' object has no attribute 'encode'
+✓ Saved metadata for Claribel Dervla: 0 samples
+
+================================================================================
+Processing speaker: Andrew Chipper
+================================================================================
+
+Generating 10 synthetic samples...
+
+Generating audio with speaker: Andrew Chipper
+Synthesizing:   0%|          | 0/10 [00:00<?, ?it/s]Synthesizing:  10%|█         | 1/10 [00:01<00:09,  1.08s/it]Synthesizing:  20%|██        | 2/10 [00:01<00:07,  1.09it/s]Synthesizing:  30%|███       | 3/10 [00:02<00:05,  1.20it/s]Synthesizing:  40%|████      | 4/10 [00:03<00:04,  1.29it/s]Synthesizing:  50%|█████     | 5/10 [00:03<00:03,  1.36it/s]Synthesizing:  60%|██████    | 6/10 [00:04<00:02,  1.35it/s]Synthesizing:  70%|███████   | 7/10 [00:05<00:02,  1.20it/s]Synthesizing:  80%|████████  | 8/10 [00:06<00:01,  1.29it/s]Synthesizing:  90%|█████████ | 9/10 [00:07<00:00,  1.36it/s]Synthesizing: 100%|██████████| 10/10 [00:07<00:00,  1.43it/s]Synthesizing: 100%|██████████| 10/10 [00:07<00:00,  1.31it/s]
+ > Text splitted to sentences.
+['Congratulations!', "That's absolutely wonderful news!", "I'm so happy for you!"]
+ > Processing time: 1.0650959014892578
+ > Real-time factor: 0.14580662453957322
+
+⚠ Failed to process sample andrew_chipper_synthetic_00000: 'EmotionEncoder' object has no attribute 'encode'
+ > Text splitted to sentences.
+['That must be really hard.', "It's completely normal to feel that way."]
+ > Processing time: 0.7869861125946045
+ > Real-time factor: 0.15160263299125515
+
+⚠ Failed to process sample andrew_chipper_synthetic_00001: 'EmotionEncoder' object has no attribute 'encode'
+ > Text splitted to sentences.
+['I hear your frustration.', "Let's think about how to address this."]
+ > Processing time: 0.7252724170684814
+ > Real-time factor: 0.15012256680271868
+
+⚠ Failed to process sample andrew_chipper_synthetic_00002: 'EmotionEncoder' object has no attribute 'encode'
+ > Text splitted to sentences.
+['I can understand that.', "Let's take it one step at a time."]
+ > Processing time: 0.6648604869842529
+ > Real-time factor: 0.14831027171012845
+
+⚠ Failed to process sample andrew_chipper_synthetic_00003: 'EmotionEncoder' object has no attribute 'encode'
+ > Text splitted to sentences.
+['Wow!', 'What a surprise!', 'Share the details!']
+ > Processing time: 0.6526224613189697
+ > Real-time factor: 0.14117019769348693
+
+⚠ Failed to process sample andrew_chipper_synthetic_00004: 'EmotionEncoder' object has no attribute 'encode'
+ > Text splitted to sentences.
+["It's going well, thanks for asking.", 'How about yours?']
+ > Processing time: 0.7406179904937744
+ > Real-time factor: 0.15630385423418572
+
+⚠ Failed to process sample andrew_chipper_synthetic_00005: 'EmotionEncoder' object has no attribute 'encode'
+ > Text splitted to sentences.
+["That's amazing!", 'You must be thrilled!', 'All your hard work paid off!']
+ > Processing time: 0.9648556709289551
+ > Real-time factor: 0.1507757933437993
+
+⚠ Failed to process sample andrew_chipper_synthetic_00006: 'EmotionEncoder' object has no attribute 'encode'
+ > Text splitted to sentences.
+['I understand.', 'Sometimes life can be overwhelming.']
+ > Processing time: 0.6385700702667236
+ > Real-time factor: 0.14941076028630362
+
+⚠ Failed to process sample andrew_chipper_synthetic_00007: 'EmotionEncoder' object has no attribute 'encode'
+ > Text splitted to sentences.
+['I understand your anger.', "Let's work through this together."]
+ > Processing time: 0.6004936695098877
+ > Real-time factor: 0.14165616882802362
+
+⚠ Failed to process sample andrew_chipper_synthetic_00008: 'EmotionEncoder' object has no attribute 'encode'
+ > Text splitted to sentences.
+["You're stronger than you think.", "We'll figure this out together."]
+ > Processing time: 0.5663604736328125
+ > Real-time factor: 0.1409381595747959
+
+⚠ Failed to process sample andrew_chipper_synthetic_00009: 'EmotionEncoder' object has no attribute 'encode'
+✓ Saved metadata for Andrew Chipper: 0 samples
+
+================================================================================
+✅ Multi-speaker dataset generation complete!
+================================================================================
+Total speakers: 2
+Total samples: 0
+Saved to: ./audio_augmented_llm/data/multispeaker_test

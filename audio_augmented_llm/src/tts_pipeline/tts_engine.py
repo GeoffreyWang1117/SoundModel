@@ -72,6 +72,7 @@ class TTSEngine:
         self,
         text: str,
         speaker_wav: Optional[str] = None,
+        speaker: Optional[str] = None,
         emotion: Optional[str] = None,
         speed: float = 1.0,
         output_path: Optional[str] = None,
@@ -82,6 +83,7 @@ class TTSEngine:
         Args:
             text: Input text to synthesize
             speaker_wav: Path to reference speaker audio (for voice cloning)
+            speaker: Speaker name for built-in speakers (XTTS only)
             emotion: Emotion label to guide synthesis (if supported)
             speed: Speech speed multiplier
             output_path: Optional path to save audio file
@@ -90,7 +92,7 @@ class TTSEngine:
             Audio waveform as numpy array
         """
         if self.model_type == "xtts":
-            return self._synthesize_xtts(text, speaker_wav, speed, output_path)
+            return self._synthesize_xtts(text, speaker_wav, speaker, speed, output_path)
         elif self.model_type == "cosyvoice":
             return self._synthesize_cosyvoice(text, emotion, speed, output_path)
 
@@ -98,6 +100,7 @@ class TTSEngine:
         self,
         text: str,
         speaker_wav: Optional[str],
+        speaker: Optional[str],
         speed: float,
         output_path: Optional[str],
     ) -> np.ndarray:
@@ -105,14 +108,21 @@ class TTSEngine:
         try:
             # Generate audio
             if speaker_wav:
-                # Use provided speaker wav
+                # Use provided speaker wav for voice cloning
                 wav = self.model.tts(
                     text=text,
                     speaker_wav=speaker_wav,
                     language=self.language,
                 )
+            elif speaker:
+                # Use specified built-in speaker
+                wav = self.model.tts(
+                    text=text,
+                    speaker=speaker,
+                    language=self.language,
+                )
             else:
-                # Use built-in speaker for reproducibility
+                # Use default built-in speaker for reproducibility
                 # XTTS v2 has built-in speakers, we use "Claribel Dervla" as default
                 wav = self.model.tts(
                     text=text,

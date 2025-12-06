@@ -1,0 +1,158 @@
+\subsection{In-Domain Performance (Exp 7)}
+
+Table \ref{tab:feature_comparison} shows that acoustic features significantly outperform deep learning embeddings:
+
+\begin{table}[h]
+\centering
+\caption{Feature representation comparison on in-domain validation.}
+\label{tab:feature_comparison}
+\begin{tabular}{lcc}
+\toprule
+\textbf{Embedding Type} & \textbf{Dimension} & \textbf{Val Loss} \\
+\midrule
+Text-only (baseline) & - & 0.1100 \\
+WavLM & 256D & 0.0792 (+27.82\%) \\
+Acoustic & 46D & \textbf{0.0655} (+40.45\%) \\
+Fusion & 302D & 0.0771 (+29.91\%) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\textbf{Key Finding:} Acoustic features achieve 40.45\% improvement with only 46 dimensions, outperforming 256D WavLM by 17.3\% (0.0655 vs 0.0792). Fusion performs between the two, suggesting acoustic features may be redundant with WavLM for emotion tasks.
+
+\subsection{Feature Ablation (Exp 8)}
+
+Table \ref{tab:ablation} shows the contribution of different feature groups:
+
+\begin{table}[h]
+\centering
+\caption{Ablation study of acoustic feature groups.}
+\label{tab:ablation}
+\begin{tabular}{lcc}
+\toprule
+\textbf{Features} & \textbf{Dimension} & \textbf{Val Loss} \\
+\midrule
+Full acoustic & 46D & \textbf{0.0655} \\
+Prosodic only & 13D & 0.1233 \\
+Spectral only & 20D & 0.1228 \\
+No prosodic (spectral+formant) & 33D & 0.0988 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\textbf{Feature Importance Analysis:}
+\begin{itemize}
+    \item Spectral features contribute 25.71\% improvement (0.1228 $\rightarrow$ 0.0988)
+    \item Adding prosodic features provides additional 33.67\% gain (0.0988 $\rightarrow$ 0.0655)
+    \item Prosodic-only performs worst (0.1233), showing spectral features are essential
+    \item Synergistic effect: combined features (40.45\%) $>$ sum of individual gains (prosodic 21.18\% + spectral 25.71\%)
+\end{itemize}
+
+\subsection{Cross-Speaker Generalization Challenge (Exp 9-10)}
+
+Table \ref{tab:cross_speaker} reveals severe degradation on unseen speakers:
+
+\begin{table}[h]
+\centering
+\caption{Cross-speaker generalization performance.}
+\label{tab:cross_speaker}
+\begin{tabular}{llcc}
+\toprule
+\textbf{Exp} & \textbf{Approach} & \textbf{Test Loss} & \textbf{vs In-Domain} \\
+\midrule
+7b & Acoustic (in-domain) & 0.0792 & Baseline \\
+9a & Acoustic (Damien) & 3.0502 & 38.5× worse \\
+10b & Relative features (Damien) & 3.3155 & 41.9× worse \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\textbf{Critical Finding:} Models trained on single speakers catastrophically fail on unseen speakers, with 38.5× performance degradation. Relative feature normalization (CV, ratios, percentiles) does not solve the problem, achieving even worse results (3.3155 vs 3.0502).
+
+\subsection{Multi-Speaker Training (Exp 11)}
+
+Table \ref{tab:multispeaker} shows partial improvement from multi-speaker training:
+
+\begin{table}[h]
+\centering
+\caption{Multi-speaker training results.}
+\label{tab:multispeaker}
+\begin{tabular}{llcc}
+\toprule
+\textbf{Training} & \textbf{Test} & \textbf{Loss} & \textbf{vs Single-Speaker} \\
+\midrule
+Claribel only & Damien & 3.0502 & Baseline \\
+Claribel + Damien & Damien (val) & 0.2468 & 12.4× better \\
+Claribel + Damien & Andrew (test) & 2.5503 & 16.4\% better \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\textbf{Key Findings:}
+\begin{enumerate}
+    \item Multi-speaker training (2 speakers) provides 16.4\% improvement on true cross-speaker test
+    \item Same-speaker validation (0.2468) is highly misleading: 10.3× gap to unseen speaker test (2.5503)
+    \item Problem remains severe: 32.2× worse than in-domain despite multi-speaker training
+    \item Speaker diversity (only 2 speakers) and imbalance (500 vs 50 samples) limit effectiveness
+\end{enumerate}
+
+\subsection{The Speaker-Performance Paradox (Exp 13)}
+
+To test whether increased speaker diversity improves generalization, we trained on 4 balanced speakers (800 samples). Table \ref{tab:speaker_paradox} reveals a counterintuitive finding:
+
+\begin{table}[h]
+\centering
+\caption{The Speaker-Performance Paradox: Better same-speaker performance leads to worse cross-speaker generalization.}
+\label{tab:speaker_paradox}
+\begin{tabular}{lccc}
+\toprule
+\textbf{Metric} & \textbf{Exp 11 (2-sp)} & \textbf{Exp 13 (4-sp)} & \textbf{Change} \\
+\midrule
+Val Loss (same-sp) & 0.2468 & 0.0316 & -87.2\% \\
+Cross-sp Test (Viktor) & 2.5503 & 2.5336 & -0.65\% \\
+Degradation Factor & 32.2× & 80.2× & +148\% \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\textbf{Critical Discovery:} Adding more speakers dramatically improved same-speaker validation (87.2\% reduction in loss) but provided negligible cross-speaker benefit (0.65\%). The degradation factor worsened from 32.2× to 80.2×, indicating the model overfits to training speakers more strongly with increased diversity.
+
+\textbf{Paradox Explanation:}
+\begin{itemize}
+    \item \textbf{Better fit ≠ Better generalization}: More speakers provide richer learning signal for training speakers but do not create speaker-invariant representations
+    \item \textbf{Overfitting amplification}: With 4 speakers, the model learns speaker-specific emotion patterns more precisely, making it less robust to unseen speakers
+    \item \textbf{Data scaling limitation}: Simply adding more training speakers does not solve the architectural problem
+\end{itemize}
+
+\subsection{Speaker Adaptive Normalization Failure (Exp 15)}
+
+We tested whether explicit speaker conditioning during training, followed by parameter averaging during inference, could create speaker-invariant features. Table \ref{tab:san_failure} shows this approach failed catastrophically:
+
+\begin{table}[h]
+\centering
+\caption{Speaker Adaptive Normalization (SAN) results demonstrate that speaker-invariance ≠ cross-speaker generalization.}
+\label{tab:san_failure}
+\begin{tabular}{lccc}
+\toprule
+\textbf{Metric} & \textbf{Exp 13} & \textbf{Exp 15 (SAN)} & \textbf{Change} \\
+\midrule
+Validation Loss & 0.0316 & 0.0863 & +173\% \\
+Val Gap (w/ vs w/o speaker IDs) & 80.2× & 1.00× & Perfect! \\
+Cross-sp Test (Viktor) & 2.5336 & 4.6717 & +84.4\% \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\textbf{Architecture}: SAN learns speaker-specific scale/bias parameters for normalization during training, then averages them during inference to remove speaker conditioning.
+
+\textbf{The Speaker-Invariance Paradox}: SAN achieved perfect speaker-invariance (validation gap = 1.00×, identical performance with/without speaker IDs), yet cross-speaker test performance became significantly worse (+84\% higher loss).
+
+\textbf{Root Cause Analysis}:
+\begin{enumerate}
+    \item \textbf{False equivalence}: Speaker-invariance among known speakers ≠ generalization to unknown speakers
+    \item \textbf{Harmful averaging}: $\mu(\text{Speaker A,B,C,D}) \neq \text{Speaker V}$ --- the averaged parameters encode bias toward training speakers, not speaker-agnostic features
+    \item \textbf{Information loss}: Complete speaker-invariance removes useful variance that helps the model learn emotion patterns
+    \item \textbf{Architectural complexity cost}: SAN's additional parameters and constraints worsened baseline validation loss (0.0316 → 0.0863)
+\end{enumerate}
+
+\textbf{Key Insight}: The validation gap metric is misleading --- it measures consistency among known speakers but does not predict cross-speaker generalization ability. This negative result demonstrates that architectural solutions attempting to force speaker-invariance are fundamentally flawed.

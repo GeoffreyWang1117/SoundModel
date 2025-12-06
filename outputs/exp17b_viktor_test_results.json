@@ -1,0 +1,25 @@
+{
+  "experiment": "exp17b_contrastive",
+  "test_set": "viktor_cross_speaker",
+  "test_loss": 3.146530742645264,
+  "num_samples": 100,
+  "model_config": {
+    "train_dir": "./audio_augmented_llm/data/exp13_4speaker/train",
+    "val_dir": "./audio_augmented_llm/data/exp13_4speaker/val",
+    "embedding_type": "wavlm",
+    "model_name": "Qwen/Qwen2.5-1.5B-Instruct",
+    "emotion_dim": 256,
+    "num_epochs": 5,
+    "batch_size": 4,
+    "learning_rate": 5e-05,
+    "max_length": 512,
+    "lambda_lm": 1.0,
+    "lambda_contrastive": 0.3,
+    "temperature": 0.07,
+    "lora_rank": 8,
+    "lora_alpha": 16,
+    "lora_dropout": 0.05,
+    "output_dir": "./audio_augmented_llm/models/exp17b_contrastive",
+    "log_file": "./outputs/exp17b_training_log.txt"
+  }
+}

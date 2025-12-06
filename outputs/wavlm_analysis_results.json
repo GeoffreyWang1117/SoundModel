@@ -1,0 +1,17 @@
+{
+  "dataset": "./audio_augmented_llm/data/exp13_4speaker/train",
+  "embedding_type": "wavlm",
+  "num_samples": 800,
+  "embedding_dim": 256,
+  "num_speakers": 4,
+  "num_emotions": 6,
+  "speaker_classification_accuracy": 0.95,
+  "emotion_classification_accuracy": 0.9375,
+  "speaker_separation_ratio": 1.0647037029266357,
+  "emotion_separation_ratio": 1.0721620321273804,
+  "within_speaker_mean_dist": 0.3475394546985626,
+  "between_speaker_mean_dist": 0.37002652883529663,
+  "within_emotion_mean_dist": 0.34374189376831055,
+  "between_emotion_mean_dist": 0.3685469925403595,
+  "test_emotion_accuracy": 0.21
+}

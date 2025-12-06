@@ -1,0 +1,77 @@
+\documentclass[11pt]{article}
+
+% Package imports
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{hyperref}
+\usepackage{cleveref}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{xcolor}
+\usepackage{subcaption}
+\usepackage{natbib}
+
+% Page setup
+\usepackage[margin=1in]{geometry}
+\usepackage{setspace}
+\onehalfspacing
+
+% Custom commands
+\newcommand{\method}{Emotion-Aware LLM}
+\newcommand{\etal}{\textit{et al.}}
+
+% Title and authors
+\title{\textbf{Enhancing Large Language Models with Prosodic Emotion Understanding through Audio-Augmented Training}}
+
+\author{
+    Anonymous Author(s) \\
+    Anonymous Institution \\
+    \texttt{anonymous@email.com}
+}
+
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+Large language models (LLMs) have demonstrated remarkable capabilities in text generation and understanding, yet they fundamentally lack the ability to perceive and respond to emotional cues present in human speech prosody. This limitation becomes critical in applications requiring empathetic interaction, such as conversational AI and mental health support systems. We introduce an audio-augmented training framework that enables LLMs to condition their responses on prosodic emotion features extracted from speech. Our key contributions are threefold: (1) We demonstrate that interpretable acoustic features (pitch, energy, spectral characteristics) outperform deep learning embeddings by 45\% in emotion-aware text generation through systematic ablation studies. (2) We identify and characterize a severe cross-speaker generalization challenge, where models trained on single speakers show 38.5× performance degradation on unseen speakers. (3) We show that multi-speaker training provides partial but insufficient improvement (16.4\%), revealing fundamental limitations in current approaches. Our comprehensive analysis of 11 experiments provides critical insights for future research on emotion-aware language models, including the importance of speaker-invariant feature learning and the inadequacy of same-speaker validation for cross-speaker generalization assessment.
+\end{abstract}
+
+\section{Introduction}
+\label{sec:introduction}
+\input{sections/1_introduction}
+
+\section{Related Work}
+\label{sec:related}
+\input{sections/2_related_work}
+
+\section{Method}
+\label{sec:method}
+\input{sections/3_method}
+
+\section{Experimental Setup}
+\label{sec:experiments}
+\input{sections/4_experiments}
+
+\section{Results}
+\label{sec:results}
+\input{sections/5_results}
+
+\section{Discussion}
+\label{sec:discussion}
+\input{sections/6_discussion}
+
+\section{Conclusion}
+\label{sec:conclusion}
+\input{sections/7_conclusion}
+
+\bibliographystyle{plain}
+\bibliography{references}
+
+\end{document}

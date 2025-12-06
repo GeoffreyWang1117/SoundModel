@@ -1,0 +1,41 @@
+\subsection{Why Acoustic Features Outperform Deep Embeddings}
+
+Our results show acoustic features achieving 40.45\% improvement compared to WavLM's 27.82\%, despite using 5.6× fewer dimensions. We hypothesize three explanations:
+
+\textbf{1. Task Alignment.} WavLM is pre-trained on masked prediction and contrastive learning \cite{chen2022wavlm}, optimizing for general speech representation. Acoustic features, designed specifically for prosody and emotion \cite{eyben2010opensmile}, may capture task-relevant information more directly.
+
+\textbf{2. Interpretability Advantage.} Acoustic features are human-interpretable (pitch, energy, MFCCs), allowing the projection layer to learn more structured mappings. Black-box embeddings may contain redundant or task-irrelevant information.
+
+\textbf{3. Overfitting Risk.} Higher-dimensional embeddings (256D) may overfit the small training set (1000 samples). Lower-dimensional acoustic features (46D) provide better regularization.
+
+\subsection{The Cross-Speaker Generalization Problem}
+
+The 38.5× degradation on unseen speakers is alarming and has critical implications for deployment. We identify three contributing factors:
+
+\textbf{Speaker-Dependent Features.} Despite being emotion-relevant, acoustic features (pitch, formants, MFCCs) are inherently speaker-dependent. Pitch range varies 2-3× across speakers \cite{peterson1952control}, and formant frequencies differ due to vocal tract anatomy.
+
+\textbf{Insufficient Disentanglement.} Current models learn joint representations of speaker identity and emotion rather than disentangled representations. The emotion projection layer fails to separate speaker characteristics from emotional content.
+
+\textbf{Training Data Imbalance.} Single-speaker training provides no incentive to learn speaker-invariant patterns. Multi-speaker training with 2 speakers (especially with 10:1 imbalance) provides limited diversity for robust generalization.
+
+\subsection{Validation Setup Matters}
+
+Our Exp 11 results reveal a critical methodological issue: same-speaker validation (even with held-out samples) does not predict cross-speaker performance. The 10.3× gap between Damien validation (0.2468) and Andrew test (2.5503) demonstrates that:
+
+\begin{itemize}
+    \item Models generalize well to new samples from seen speakers
+    \item Models fail catastrophically on new speakers
+    \item Standard train/val splits are inadequate for this task
+\end{itemize}
+
+\textbf{Recommendation:} Always include held-out speakers in test sets to accurately assess cross-speaker generalization.
+
+\subsection{Limitations and Future Work}
+
+\textbf{Data Limitations.} All audio is TTS-generated, potentially lacking authentic emotional prosody. Future work should incorporate real human speech from datasets like IEMOCAP \cite{busso2008iemocap} or MSP-Podcast \cite{lotfian2019building}.
+
+\textbf{Scale Limitations.} Our multi-speaker experiments use only 2 speakers with 550 samples. Scaling to 10+ speakers with 2000+ samples may achieve better speaker-invariance (see Future Work section).
+
+\textbf{Architectural Limitations.} Simple concatenation may be suboptimal. Cross-attention between emotion and text \cite{vaswani2017attention} or adversarial speaker disentanglement \cite{ganin2016domain} warrant investigation.
+
+\textbf{Evaluation Limitations.} We rely on perplexity/loss metrics. Human evaluation of emotional appropriateness and response quality would strengthen conclusions.

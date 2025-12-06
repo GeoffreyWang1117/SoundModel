@@ -1,0 +1,66 @@
+% Discussion
+% Target: 1.5 pages
+
+\subsection{Why Acoustic Features Outperform Deep Learning}
+
+\subsubsection{Inductive Bias Hypothesis}
+Speech science features encode domain knowledge:
+\begin{itemize}
+    \item Prosody directly models emotional arousal (pitch variance, energy)
+    \item Formants capture vocal tract changes under emotion
+    \item Spectral features reflect speech production mechanisms
+\end{itemize}
+
+WavLM learns general speech representations but:
+\begin{itemize}
+    \item Not optimized for emotion specifically
+    \item May encode task-irrelevant information
+    \item Requires more data to discover emotion patterns
+\end{itemize}
+
+\subsubsection{Efficiency Explanation}
+46D vs. 256D parameter efficiency:
+\begin{itemize}
+    \item Each acoustic dimension targets specific emotion aspect
+    \item WavLM dimensions encode redundant/irrelevant information
+    \item Interpretable features prevent overfitting
+\end{itemize}
+
+\subsection{Implications for LLM Research}
+
+\subsubsection{Feature Engineering Still Matters}
+Challenges the "deep learning solves everything" narrative:
+\begin{itemize}
+    \item Domain knowledge provides valuable inductive bias
+    \item Hand-crafted features can outperform learned representations
+    \item Trade-off: engineering effort vs. data collection
+\end{itemize}
+
+\subsubsection{Interpretability Advantage}
+Practical benefits:
+\begin{itemize}
+    \item Debugging: Identify which emotion aspects matter
+    \item Trust: Explainable features for production deployment
+    \item Efficiency: Lower computational/memory requirements
+\end{itemize}
+
+\subsection{Limitations}
+
+\begin{enumerate}
+    \item \textbf{TTS-only evaluation}: Real speech may differ
+    \item \textbf{Single domain}: Teacher-student dialogues
+    \item \textbf{Language}: English only
+    \item \textbf{Emotion categories}: 6 discrete classes (not continuous)
+    \item \textbf{Scale}: Limited to 1000 samples
+\end{enumerate}
+
+\subsection{Future Directions}
+
+\begin{itemize}
+    \item Test on real human speech datasets
+    \item Extend to other languages and cultures
+    \item Continuous emotion representation (valence-arousal)
+    \item Larger scale experiments (10K+ samples)
+    \item Hybrid approaches: Learn feature weights
+    \item Multi-task learning with emotion recognition
+\end{itemize}

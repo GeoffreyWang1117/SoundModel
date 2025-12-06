@@ -1,0 +1,39 @@
+`low_cpu_mem_usage` was None, now set to True since model is quantized.
+/home/coder-gw/Projects/Emotional-Aware-Reasoning/scripts/evaluate_model.py:88: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  model.emotion_projection.load_state_dict(torch.load(emotion_proj_path, map_location=device))
+================================================================================
+Model Evaluation
+================================================================================
+Model: ./audio_augmented_llm/models/exp15_san/best_model
+Test data: ./audio_augmented_llm/data/test_cross_speaker_viktor
+Embedding type: wavlm
+
+Loading model...
+Loading base model: Qwen/Qwen2.5-1.5B...
+Applying LoRA...
+Loading base model: Qwen/Qwen2.5-1.5B...
+Applying LoRA...
+✓ Student model with SAN initialized
+  - Integration mode: concat
+  - Adaptive normalization: True
+  - Inference mode: average
+  - Number of speakers: 4
+✓ Student model initialized with concat integration
+✓ Model loaded on cuda
+
+Loading test dataset...
+Using WavLM embeddings (256D)
+Loaded 100 samples from ./audio_augmented_llm/data/test_cross_speaker_viktor
+✓ Test samples: 100
+
+Evaluating...
+Evaluating:   0%|          | 0/13 [00:00<?, ?it/s]Evaluating:   8%|▊         | 1/13 [00:00<00:09,  1.32it/s]Evaluating:  15%|█▌        | 2/13 [00:01<00:06,  1.69it/s]Evaluating:  23%|██▎       | 3/13 [00:01<00:05,  1.86it/s]Evaluating:  31%|███       | 4/13 [00:02<00:04,  1.95it/s]Evaluating:  38%|███▊      | 5/13 [00:02<00:03,  2.01it/s]Evaluating:  46%|████▌     | 6/13 [00:03<00:03,  2.04it/s]Evaluating:  54%|█████▍    | 7/13 [00:03<00:02,  2.07it/s]Evaluating:  62%|██████▏   | 8/13 [00:04<00:02,  2.09it/s]Evaluating:  69%|██████▉   | 9/13 [00:04<00:01,  2.10it/s]Evaluating:  77%|███████▋  | 10/13 [00:05<00:01,  2.10it/s]Evaluating:  85%|████████▍ | 11/13 [00:05<00:00,  2.11it/s]Evaluating:  92%|█████████▏| 12/13 [00:05<00:00,  2.11it/s]Evaluating: 100%|██████████| 13/13 [00:06<00:00,  2.46it/s]Evaluating: 100%|██████████| 13/13 [00:06<00:00,  2.09it/s]
+
+================================================================================
+✅ Evaluation complete!
+================================================================================
+
+📊 Results:
+   Test loss: 4.6717
+   Samples evaluated: 100
+

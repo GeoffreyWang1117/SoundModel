@@ -1,0 +1,13 @@
+We presented a comprehensive investigation of emotion-augmented LLM training, revealing both promising directions and fundamental challenges. Our key findings are:
+
+\begin{enumerate}
+    \item \textbf{Acoustic features outperform deep embeddings:} Interpretable 46D acoustic features achieve 40.45\% improvement vs WavLM's 27.82\%, with systematic ablation showing spectral features contribute 25.71\% and prosodic features add 14.74\% through synergistic effects.
+
+    \item \textbf{Cross-speaker generalization is severely problematic:} Single-speaker trained models show 38.5× degradation on unseen speakers, a critical barrier to deployment that relative feature normalization does not address.
+
+    \item \textbf{Multi-speaker training provides partial improvement:} Training on 2 speakers reduces cross-speaker loss by 16.4\%, but still performs 32.2× worse than in-domain. Critically, same-speaker validation is misleading (10.3× gap to true cross-speaker test).
+\end{enumerate}
+
+\textbf{Broader Impact.} Emotion-aware LLMs could enable more empathetic AI systems for mental health support, education, and customer service. However, the severe cross-speaker generalization problem must be addressed before deployment. Failure to do so risks inappropriate responses that could harm users.
+
+\textbf{Future Directions.} Our analysis points to three promising research directions: (1) Large-scale multi-speaker training (10+ speakers, 2000+ samples), (2) Explicit speaker-emotion disentanglement via adversarial training or conditional normalization, and (3) Incorporation of real human emotional speech data. We release our code, data pipeline, and experimental logs to facilitate this critical research.

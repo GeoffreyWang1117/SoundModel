@@ -1,0 +1,187 @@
+================================================================================
+Acoustic Feature Extraction (Batch)
+================================================================================
+Data directory: ./audio_augmented_llm/data/exp13_4speaker/val
+Output: audio_augmented_llm/data/exp13_4speaker/val/acoustic_embeddings.npz
+
+📊 Dataset: 80 samples
+
+🔬 Initializing acoustic feature extractor...
+
+🎵 Extracting acoustic features...
+Extracting:   0%|          | 0/80 [00:00<?, ?it/s]Extracting:   1%|▏         | 1/80 [00:00<00:42,  1.85it/s]
+⚠ Failed to extract claribel_dervla_0200: [Errno 2] No such file or directory: 'audio/claribel_dervla_0200.wav'
+
+⚠ Failed to extract claribel_dervla_0201: [Errno 2] No such file or directory: 'audio/claribel_dervla_0201.wav'
+
+⚠ Failed to extract claribel_dervla_0202: [Errno 2] No such file or directory: 'audio/claribel_dervla_0202.wav'
+
+⚠ Failed to extract claribel_dervla_0203: [Errno 2] No such file or directory: 'audio/claribel_dervla_0203.wav'
+
+⚠ Failed to extract claribel_dervla_0204: [Errno 2] No such file or directory: 'audio/claribel_dervla_0204.wav'
+
+⚠ Failed to extract claribel_dervla_0205: [Errno 2] No such file or directory: 'audio/claribel_dervla_0205.wav'
+
+⚠ Failed to extract claribel_dervla_0206: [Errno 2] No such file or directory: 'audio/claribel_dervla_0206.wav'
+
+⚠ Failed to extract claribel_dervla_0207: [Errno 2] No such file or directory: 'audio/claribel_dervla_0207.wav'
+
+⚠ Failed to extract claribel_dervla_0208: [Errno 2] No such file or directory: 'audio/claribel_dervla_0208.wav'
+
+⚠ Failed to extract claribel_dervla_0209: [Errno 2] No such file or directory: 'audio/claribel_dervla_0209.wav'
+
+⚠ Failed to extract claribel_dervla_0210: [Errno 2] No such file or directory: 'audio/claribel_dervla_0210.wav'
+
+⚠ Failed to extract claribel_dervla_0211: [Errno 2] No such file or directory: 'audio/claribel_dervla_0211.wav'
+
+⚠ Failed to extract claribel_dervla_0212: [Errno 2] No such file or directory: 'audio/claribel_dervla_0212.wav'
+
+⚠ Failed to extract claribel_dervla_0213: [Errno 2] No such file or directory: 'audio/claribel_dervla_0213.wav'
+
+⚠ Failed to extract claribel_dervla_0214: [Errno 2] No such file or directory: 'audio/claribel_dervla_0214.wav'
+
+⚠ Failed to extract claribel_dervla_0215: [Errno 2] No such file or directory: 'audio/claribel_dervla_0215.wav'
+
+⚠ Failed to extract claribel_dervla_0216: [Errno 2] No such file or directory: 'audio/claribel_dervla_0216.wav'
+
+⚠ Failed to extract claribel_dervla_0217: [Errno 2] No such file or directory: 'audio/claribel_dervla_0217.wav'
+
+⚠ Failed to extract claribel_dervla_0218: [Errno 2] No such file or directory: 'audio/claribel_dervla_0218.wav'
+
+⚠ Failed to extract claribel_dervla_0219: [Errno 2] No such file or directory: 'audio/claribel_dervla_0219.wav'
+
+⚠ Failed to extract damien_black_0200: [Errno 2] No such file or directory: 'audio/damien_black_0200.wav'
+
+⚠ Failed to extract damien_black_0201: [Errno 2] No such file or directory: 'audio/damien_black_0201.wav'
+
+⚠ Failed to extract damien_black_0202: [Errno 2] No such file or directory: 'audio/damien_black_0202.wav'
+
+⚠ Failed to extract damien_black_0203: [Errno 2] No such file or directory: 'audio/damien_black_0203.wav'
+
+⚠ Failed to extract damien_black_0204: [Errno 2] No such file or directory: 'audio/damien_black_0204.wav'
+
+⚠ Failed to extract damien_black_0205: [Errno 2] No such file or directory: 'audio/damien_black_0205.wav'
+
+⚠ Failed to extract damien_black_0206: [Errno 2] No such file or directory: 'audio/damien_black_0206.wav'
+
+⚠ Failed to extract damien_black_0207: [Errno 2] No such file or directory: 'audio/damien_black_0207.wav'
+
+⚠ Failed to extract damien_black_0208: [Errno 2] No such file or directory: 'audio/damien_black_0208.wav'
+
+⚠ Failed to extract damien_black_0209: [Errno 2] No such file or directory: 'audio/damien_black_0209.wav'
+
+⚠ Failed to extract damien_black_0210: [Errno 2] No such file or directory: 'audio/damien_black_0210.wav'
+
+⚠ Failed to extract damien_black_0211: [Errno 2] No such file or directory: 'audio/damien_black_0211.wav'
+
+⚠ Failed to extract damien_black_0212: [Errno 2] No such file or directory: 'audio/damien_black_0212.wav'
+
+⚠ Failed to extract damien_black_0213: [Errno 2] No such file or directory: 'audio/damien_black_0213.wav'
+
+⚠ Failed to extract damien_black_0214: [Errno 2] No such file or directory: 'audio/damien_black_0214.wav'
+
+⚠ Failed to extract damien_black_0215: [Errno 2] No such file or directory: 'audio/damien_black_0215.wav'
+
+⚠ Failed to extract damien_black_0216: [Errno 2] No such file or directory: 'audio/damien_black_0216.wav'
+
+⚠ Failed to extract damien_black_0217: [Errno 2] No such file or directory: 'audio/damien_black_0217.wav'
+
+⚠ Failed to extract damien_black_0218: [Errno 2] No such file or directory: 'audio/damien_black_0218.wav'
+
+⚠ Failed to extract damien_black_0219: [Errno 2] No such file or directory: 'audio/damien_black_0219.wav'
+
+⚠ Failed to extract andrew_chipper_0200: [Errno 2] No such file or directory: 'audio/andrew_chipper_0200.wav'
+
+⚠ Failed to extract andrew_chipper_0201: [Errno 2] No such file or directory: 'audio/andrew_chipper_0201.wav'
+
+⚠ Failed to extract andrew_chipper_0202: [Errno 2] No such file or directory: 'audio/andrew_chipper_0202.wav'
+
+⚠ Failed to extract andrew_chipper_0203: [Errno 2] No such file or directory: 'audio/andrew_chipper_0203.wav'
+
+⚠ Failed to extract andrew_chipper_0204: [Errno 2] No such file or directory: 'audio/andrew_chipper_0204.wav'
+
+⚠ Failed to extract andrew_chipper_0205: [Errno 2] No such file or directory: 'audio/andrew_chipper_0205.wav'
+
+⚠ Failed to extract andrew_chipper_0206: [Errno 2] No such file or directory: 'audio/andrew_chipper_0206.wav'
+
+⚠ Failed to extract andrew_chipper_0207: [Errno 2] No such file or directory: 'audio/andrew_chipper_0207.wav'
+
+⚠ Failed to extract andrew_chipper_0208: [Errno 2] No such file or directory: 'audio/andrew_chipper_0208.wav'
+
+⚠ Failed to extract andrew_chipper_0209: [Errno 2] No such file or directory: 'audio/andrew_chipper_0209.wav'
+
+⚠ Failed to extract andrew_chipper_0210: [Errno 2] No such file or directory: 'audio/andrew_chipper_0210.wav'
+
+⚠ Failed to extract andrew_chipper_0211: [Errno 2] No such file or directory: 'audio/andrew_chipper_0211.wav'
+
+⚠ Failed to extract andrew_chipper_0212: [Errno 2] No such file or directory: 'audio/andrew_chipper_0212.wav'
+
+⚠ Failed to extract andrew_chipper_0213: [Errno 2] No such file or directory: 'audio/andrew_chipper_0213.wav'
+
+⚠ Failed to extract andrew_chipper_0214: [Errno 2] No such file or directory: 'audio/andrew_chipper_0214.wav'
+
+⚠ Failed to extract andrew_chipper_0215: [Errno 2] No such file or directory: 'audio/andrew_chipper_0215.wav'
+
+⚠ Failed to extract andrew_chipper_0216: [Errno 2] No such file or directory: 'audio/andrew_chipper_0216.wav'
+
+⚠ Failed to extract andrew_chipper_0217: [Errno 2] No such file or directory: 'audio/andrew_chipper_0217.wav'
+
+⚠ Failed to extract andrew_chipper_0218: [Errno 2] No such file or directory: 'audio/andrew_chipper_0218.wav'
+
+⚠ Failed to extract andrew_chipper_0219: [Errno 2] No such file or directory: 'audio/andrew_chipper_0219.wav'
+
+⚠ Failed to extract gracie_wise_0200: [Errno 2] No such file or directory: 'audio/gracie_wise_0200.wav'
+
+⚠ Failed to extract gracie_wise_0201: [Errno 2] No such file or directory: 'audio/gracie_wise_0201.wav'
+
+⚠ Failed to extract gracie_wise_0202: [Errno 2] No such file or directory: 'audio/gracie_wise_0202.wav'
+
+⚠ Failed to extract gracie_wise_0203: [Errno 2] No such file or directory: 'audio/gracie_wise_0203.wav'
+
+⚠ Failed to extract gracie_wise_0204: [Errno 2] No such file or directory: 'audio/gracie_wise_0204.wav'
+
+⚠ Failed to extract gracie_wise_0205: [Errno 2] No such file or directory: 'audio/gracie_wise_0205.wav'
+
+⚠ Failed to extract gracie_wise_0206: [Errno 2] No such file or directory: 'audio/gracie_wise_0206.wav'
+
+⚠ Failed to extract gracie_wise_0207: [Errno 2] No such file or directory: 'audio/gracie_wise_0207.wav'
+
+⚠ Failed to extract gracie_wise_0208: [Errno 2] No such file or directory: 'audio/gracie_wise_0208.wav'
+
+⚠ Failed to extract gracie_wise_0209: [Errno 2] No such file or directory: 'audio/gracie_wise_0209.wav'
+
+⚠ Failed to extract gracie_wise_0210: [Errno 2] No such file or directory: 'audio/gracie_wise_0210.wav'
+
+⚠ Failed to extract gracie_wise_0211: [Errno 2] No such file or directory: 'audio/gracie_wise_0211.wav'
+
+⚠ Failed to extract gracie_wise_0212: [Errno 2] No such file or directory: 'audio/gracie_wise_0212.wav'
+Extracting: 100%|██████████| 80/80 [00:00<00:00, 146.67it/s]
+
+⚠ Failed to extract gracie_wise_0213: [Errno 2] No such file or directory: 'audio/gracie_wise_0213.wav'
+
+⚠ Failed to extract gracie_wise_0214: [Errno 2] No such file or directory: 'audio/gracie_wise_0214.wav'
+
+⚠ Failed to extract gracie_wise_0215: [Errno 2] No such file or directory: 'audio/gracie_wise_0215.wav'
+
+⚠ Failed to extract gracie_wise_0216: [Errno 2] No such file or directory: 'audio/gracie_wise_0216.wav'
+
+⚠ Failed to extract gracie_wise_0217: [Errno 2] No such file or directory: 'audio/gracie_wise_0217.wav'
+
+⚠ Failed to extract gracie_wise_0218: [Errno 2] No such file or directory: 'audio/gracie_wise_0218.wav'
+
+⚠ Failed to extract gracie_wise_0219: [Errno 2] No such file or directory: 'audio/gracie_wise_0219.wav'
+
+💾 Saving acoustic embeddings...
+
+================================================================================
+✅ Acoustic feature extraction complete!
+================================================================================
+
+📊 Statistics:
+   Total samples: 80
+   Successful: 0
+   Failed: 80
+   Success rate: 0.0%
+
+📁 Saved to: audio_augmented_llm/data/exp13_4speaker/val/acoustic_embeddings.npz
+

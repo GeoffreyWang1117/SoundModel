@@ -21,7 +21,7 @@ class EmotionAugmentedDataset(Dataset):
         tokenizer,
         max_length: int = 512,
         use_emotion: bool = True,
-        embedding_type: str = "wavlm",  # "wavlm", "acoustic", or "fusion"
+        embedding_type: str = "wavlm",  # "wavlm", "acoustic", "relative", or "fusion"
     ):
         """
         Initialize dataset.
@@ -31,7 +31,7 @@ class EmotionAugmentedDataset(Dataset):
             tokenizer: Tokenizer for the student model
             max_length: Maximum sequence length
             use_emotion: Whether to include emotion embeddings
-            embedding_type: Type of embedding ("wavlm", "acoustic", "fusion")
+            embedding_type: Type of embedding ("wavlm", "acoustic", "relative", "fusion")
         """
         self.data_dir = Path(data_dir)
         self.tokenizer = tokenizer
@@ -56,6 +56,11 @@ class EmotionAugmentedDataset(Dataset):
                 self.emotion_embeddings = np.load(embeddings_path)
                 self.acoustic_embeddings = None
                 print(f"Using acoustic embeddings (46D)")
+            elif embedding_type == "relative":
+                embeddings_path = self.data_dir / "relative_embeddings.npz"
+                self.emotion_embeddings = np.load(embeddings_path)
+                self.acoustic_embeddings = None
+                print(f"Using relative acoustic embeddings (44D)")
             elif embedding_type == "fusion":
                 wavlm_path = self.data_dir / "emotion_embeddings.npz"
                 acoustic_path = self.data_dir / "acoustic_embeddings.npz"
@@ -83,6 +88,7 @@ class EmotionAugmentedDataset(Dataset):
                 - attention_mask: Attention mask
                 - labels: Target labels
                 - emotion_embedding: Emotion embedding (if use_emotion=True)
+                - speaker_id: Speaker ID (if available in metadata)
         """
         sample = self.samples[idx]
 
@@ -165,7 +171,12 @@ class EmotionAugmentedDataset(Dataset):
                     result["emotion_embedding"] = torch.tensor(emotion_emb, dtype=torch.float32)
                 else:
                     # Use zero embedding as fallback
-                    emb_dim = 256 if self.embedding_type == "wavlm" else 46
+                    if self.embedding_type == "wavlm":
+                        emb_dim = 256
+                    elif self.embedding_type == "acoustic":
+                        emb_dim = 46
+                    else:  # relative
+                        emb_dim = 44
                     result["emotion_embedding"] = torch.zeros(emb_dim, dtype=torch.float32)
         elif self.use_emotion:
             # Use zero embedding as fallback
@@ -173,9 +184,15 @@ class EmotionAugmentedDataset(Dataset):
                 emb_dim = 302  # 256 + 46
             elif self.embedding_type == "wavlm":
                 emb_dim = 256
-            else:  # acoustic
+            elif self.embedding_type == "acoustic":
                 emb_dim = 46
+            else:  # relative
+                emb_dim = 44
             result["emotion_embedding"] = torch.zeros(emb_dim, dtype=torch.float32)
+
+        # Add speaker_id if available in metadata
+        if "speaker_id" in sample:
+            result["speaker_id"] = torch.tensor(sample["speaker_id"], dtype=torch.long)
 
         return result
 
@@ -205,6 +222,11 @@ def collate_fn(batch: List[Dict[str, torch.Tensor]]) -> Dict[str, torch.Tensor]:
     if "emotion_embedding" in batch[0]:
         emotion_embeddings = torch.stack([item["emotion_embedding"] for item in batch])
         result["emotion_embeddings"] = emotion_embeddings
+
+    # Add speaker IDs if present
+    if "speaker_id" in batch[0]:
+        speaker_ids = torch.stack([item["speaker_id"] for item in batch])
+        result["speaker_ids"] = speaker_ids
 
     return result
 

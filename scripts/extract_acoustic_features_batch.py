@@ -55,12 +55,12 @@ def extract_acoustic_features_batch(
 
     for item in tqdm(metadata, desc="Extracting"):
         sample_id = item['id']
-        # audio_path in metadata is already a full path, use it directly
-        audio_path = item['audio_path']
+        # audio_path in metadata is relative, make it absolute
+        audio_path = data_path / item['audio_path']
 
         try:
             # Extract acoustic features
-            features = extractor.extract_from_file(audio_path)
+            features = extractor.extract_from_file(str(audio_path))
             all_embeddings[sample_id] = features
             successful += 1
         except Exception as e:
