@@ -68,3 +68,6 @@ outputs/*_log.txt
 # Keep important documentation
 !EXPERIMENT_LOG.md
 !README.md
+
+# Exclude paper drafts and LaTeX sources (private research content)
+paper/
